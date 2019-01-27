@@ -1,0 +1,3211 @@
+{
+  "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OoTd7N4KscfazMzmn0QBQFabkY0\"", 
+  "items": [
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vCrau471n-6A7PFZlo8DqgZJ6Jw\"", 
+      "id": "Ugx6vqL46gLuhglHFdZ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2UpxjAn23EIMpDlNTCFenvQ_Xh0\"", 
+          "id": "Ugx6vqL46gLuhglHFdZ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCGWE5YRjoodVGyuIhy0MD1g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGWE5YRjoodVGyuIhy0MD1g", 
+            "authorDisplayName": "Alexis Wright", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-lbSBEXrfwbI/AAAAAAAAAAI/AAAAAAAAAAA/BUGkLvAnPQk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-27T02:20:59.000Z", 
+            "textDisplay": "I&#39;m so happy that I found your channel. I&#39;ve been obsessed with watching organizing, re/decorating and decluttering videos, so your channel is just perfect for me", 
+            "textOriginal": "I'm so happy that I found your channel. I've been obsessed with watching organizing, re/decorating and decluttering videos, so your channel is just perfect for me", 
+            "updatedAt": "2019-01-27T02:20:59.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LmIR15thQ3qQ0IaJbEow_64Lwc8\"", 
+      "id": "UgyWeNGTwan4LK36cE54AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/0nz0KXk9onRavrmwZMXub17MfVk\"", 
+          "id": "UgyWeNGTwan4LK36cE54AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCziUx7-BthhCbWInV0F6hfQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCziUx7-BthhCbWInV0F6hfQ", 
+            "authorDisplayName": "Linzy Martinelli", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-r2gSq41nd1U/AAAAAAAAAAI/AAAAAAAAAAA/4LaPmT53Jbw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T23:52:01.000Z", 
+            "textDisplay": "Thanks for this video, can\u2019t wait to see the rest! I do like the idea of being able to see everything but it seems like you lost space folding this way and that had been a hesitation of mine. Would you say you could fit the same amount?", 
+            "textOriginal": "Thanks for this video, can\u2019t wait to see the rest! I do like the idea of being able to see everything but it seems like you lost space folding this way and that had been a hesitation of mine. Would you say you could fit the same amount?", 
+            "updatedAt": "2019-01-26T23:52:01.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/06k7nNsUIsDse1uNiL9FD8mbN1s\"", 
+      "id": "UgwS4SWrmalYhjYNSCJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/g71aTV8ftFfDZeevhDiboopXtWk\"", 
+          "id": "UgwS4SWrmalYhjYNSCJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCs_t9Jdbwa0ZqnBaitvPanQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCs_t9Jdbwa0ZqnBaitvPanQ", 
+            "authorDisplayName": "hay it's Kay", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ch-DbALv3kw/AAAAAAAAAAI/AAAAAAAAAAA/9mnvp6xkQUM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T23:16:09.000Z", 
+            "textDisplay": "Dude. My room is messier than the before picture", 
+            "textOriginal": "Dude. My room is messier than the before picture", 
+            "updatedAt": "2019-01-26T23:16:09.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_Eusf7qQlsAwjmiqCsCVP_42nOw\"", 
+      "id": "UgxhfgXkix1wIuzUEwt4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gwor1hAz5gXJhDVQyvVnmn4jex8\"", 
+          "id": "UgxhfgXkix1wIuzUEwt4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCv7djtU-TXHmhp42rliuW7Q"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCv7djtU-TXHmhp42rliuW7Q", 
+            "authorDisplayName": "Bina Bahjat", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-JTPOgo4ktI8/AAAAAAAAAAI/AAAAAAAAAAA/BeSqmbVk_ek/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T23:14:36.000Z", 
+            "textDisplay": "\ud83d\udc4f\ud83d\ude0d\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d\ud83d\udc4f\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d declutter is life \ud83e\udd29\ud83e\udd29\ud83e\udd29\ud83e\udd29 and u are making a video on it, what more could I ask for \ud83d\udc95\u2764\ufe0f\ud83d\udc95\u2764\ufe0f\ud83d\udc95\u2764\ufe0f\ud83d\udc95\u2764\ufe0f Love u beautiful XOXO", 
+            "textOriginal": "\ud83d\udc4f\ud83d\ude0d\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d\ud83d\udc4f\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d declutter is life \ud83e\udd29\ud83e\udd29\ud83e\udd29\ud83e\udd29 and u are making a video on it, what more could I ask for \ud83d\udc95\u2764\ufe0f\ud83d\udc95\u2764\ufe0f\ud83d\udc95\u2764\ufe0f\ud83d\udc95\u2764\ufe0f Love u beautiful XOXO", 
+            "updatedAt": "2019-01-26T23:14:36.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cObKSZhjFKaJCP8KZnUSMkd1rJg\"", 
+      "id": "UgxAVuHNyVxd26_yYI54AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aFDLaxI85l-C14f3_XdxfWy2usc\"", 
+          "id": "UgxAVuHNyVxd26_yYI54AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCG08L1bkWCIro2HrJTHB02A"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCG08L1bkWCIro2HrJTHB02A", 
+            "authorDisplayName": "yessica oregon", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-fObSQy8tj-I/AAAAAAAAAAI/AAAAAAAAAAA/5RWW4YfE4o0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T20:57:18.000Z", 
+            "textDisplay": "This video was just soo satisfying \ud83d\ude0d", 
+            "textOriginal": "This video was just soo satisfying \ud83d\ude0d", 
+            "updatedAt": "2019-01-26T20:57:18.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZqxPgyR43u8fwNwKidm2Rc0PmDA\"", 
+      "id": "Ugwo-bbXFkOWc6dR-st4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EYNsucnXFBYlZcW6EYe6kMdR0_Q\"", 
+          "id": "Ugwo-bbXFkOWc6dR-st4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC9jUwsfO7-oLLTfbIHi-_gg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9jUwsfO7-oLLTfbIHi-_gg", 
+            "authorDisplayName": "Ryen Izazaga", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-gwNjSJO8-ow/AAAAAAAAAAI/AAAAAAAAAAA/UzHMaBTJU74/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T20:40:10.000Z", 
+            "textDisplay": "When I fold the konmari method I fold the shirts face down too!", 
+            "textOriginal": "When I fold the konmari method I fold the shirts face down too!", 
+            "updatedAt": "2019-01-26T20:40:10.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oLGnPS1z1Jj-aF2toSZpoF1GsRk\"", 
+      "id": "Ugwwh9FJczcb4RsNh9d4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NRxtHJRvCCmOw4cOZjDdxBh-OJo\"", 
+          "id": "Ugwwh9FJczcb4RsNh9d4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCdRAkc3eq6ucsXAHzgT-rfw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdRAkc3eq6ucsXAHzgT-rfw", 
+            "authorDisplayName": "Linda Perkins", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-nc-fQpBYgUI/AAAAAAAAAAI/AAAAAAAAAAA/lGJEgEsYvuM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T19:56:42.000Z", 
+            "textDisplay": "Haha, girl I know your pain. When I go to put my hubby&#39;s stuff away, I can never understand what happened.  It&#39;s like the clothes had a party when I wasn&#39;t looking.", 
+            "textOriginal": "Haha, girl I know your pain. When I go to put my hubby's stuff away, I can never understand what happened.  It's like the clothes had a party when I wasn't looking.", 
+            "updatedAt": "2019-01-26T19:56:42.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2RCNQGmj-skkJq8_gusmvbiB9Aw\"", 
+      "id": "UgxFoStTpLzI1ZG_RWx4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/B3iuiqz1y13QOESePZxWNiJ4QBw\"", 
+          "id": "UgxFoStTpLzI1ZG_RWx4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCR4k3LhjaWProVtZUFOS5Dw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCR4k3LhjaWProVtZUFOS5Dw", 
+            "authorDisplayName": "Synolve", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-DMbAN2r8QGs/AAAAAAAAAAI/AAAAAAAAAAA/0ISAlSt2KOc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T19:54:14.000Z", 
+            "textDisplay": "That\u2019s awesome!!! Great video!!!!! I\u2019ve been using the KonMari Method to clean and clear out my closets!!!!!", 
+            "textOriginal": "That\u2019s awesome!!! Great video!!!!! I\u2019ve been using the KonMari Method to clean and clear out my closets!!!!!", 
+            "updatedAt": "2019-01-26T19:54:14.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IcBrXjkmCA29JRT_7R9fZsiD0LA\"", 
+      "id": "UgzQiB_LZthU7YcTRRd4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2gTlJJlZTnaW9zVRoqlmKg6tGjY\"", 
+          "id": "UgzQiB_LZthU7YcTRRd4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCBEXgw06r6ynQWQVKxcNhdg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBEXgw06r6ynQWQVKxcNhdg", 
+            "authorDisplayName": "SlickDaveandBabserella", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-tj1Z03FzXgE/AAAAAAAAAAI/AAAAAAAAAAA/ujTIH96bfsU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T19:22:12.000Z", 
+            "textDisplay": "Yes more plz . I love you gave so much detail in this video . Have a blessed weekend \ud83d\ude0a\ud83d\ude0a", 
+            "textOriginal": "Yes more plz . I love you gave so much detail in this video . Have a blessed weekend \ud83d\ude0a\ud83d\ude0a", 
+            "updatedAt": "2019-01-26T19:22:12.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/C95cKrlI0iFZ99SXNjtYRY_BbWU\"", 
+      "id": "UgwlySQn8gSTASWcd-N4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CEIe9EbDMVpqg17R-T1azcLZOvE\"", 
+          "id": "UgwlySQn8gSTASWcd-N4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCmUMKgvWzVkh-AHRIkYjCXA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmUMKgvWzVkh-AHRIkYjCXA", 
+            "authorDisplayName": "BRIT SABLAN", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-AQJ_i9SxFGE/AAAAAAAAAAI/AAAAAAAAAAA/Jlvpj1Btv2g/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T19:12:44.000Z", 
+            "textDisplay": "I love, love, love this video! Great job! I did the Konmari method last year and it felt so good to see everything so organized, but now after watching your video, I\u2019m gonna have to revisit all my clothes. I remember watching one of your older videos when you used to dread folding laundry. I hope this method makes you feel happier to do laundry! Btw, where did you get your rose gold sequin slip on? It\u2019s so pretty \u263a\ufe0f", 
+            "textOriginal": "I love, love, love this video! Great job! I did the Konmari method last year and it felt so good to see everything so organized, but now after watching your video, I\u2019m gonna have to revisit all my clothes. I remember watching one of your older videos when you used to dread folding laundry. I hope this method makes you feel happier to do laundry! Btw, where did you get your rose gold sequin slip on? It\u2019s so pretty \u263a\ufe0f", 
+            "updatedAt": "2019-01-26T19:12:44.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nWjKahSj2GgUQMth_KlWZDpKA_M\"", 
+      "id": "UgymuyVZkohwr7ZXuRV4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/M9TZmZMhIop_51xvDVqd6WNiTU0\"", 
+          "id": "UgymuyVZkohwr7ZXuRV4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC_Z_WJkP3lsv_KQ_fzzka-g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_Z_WJkP3lsv_KQ_fzzka-g", 
+            "authorDisplayName": "Alexandra St-Louis", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-9U3az-PxAoM/AAAAAAAAAAI/AAAAAAAAAAA/PWIM78s99Jo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T15:36:26.000Z", 
+            "textDisplay": "Hi Alexandra, i was wondering where is your bed is from?", 
+            "textOriginal": "Hi Alexandra, i was wondering where is your bed is from?", 
+            "updatedAt": "2019-01-26T15:36:26.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yZoPzn-bzkHtY32Lgrl1miME33I\"", 
+      "id": "UgyGiq1ADtHy1ccZhb14AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/a4bZw0nal7JBG3HNagH8eLUuX8E\"", 
+          "id": "UgyGiq1ADtHy1ccZhb14AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCoKt1s92euoDguTDZGVB9NA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCoKt1s92euoDguTDZGVB9NA", 
+            "authorDisplayName": "Kazie Elise", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-890I7PN4hCA/AAAAAAAAAAI/AAAAAAAAAAA/hmXH-N1e1sM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T13:28:17.000Z", 
+            "textDisplay": "Omg that pastel stripe shirt you are wearing is beautiful! Please share where you got it\ud83e\udd70", 
+            "textOriginal": "Omg that pastel stripe shirt you are wearing is beautiful! Please share where you got it\ud83e\udd70", 
+            "updatedAt": "2019-01-26T13:28:17.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wrhIcLoqF2BKVTKQmkPvxPJVd2U\"", 
+      "id": "Ugzt3l2SVtowEyinJSB4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PKB2bkJ-PbNYT4S4CB5O7M3Bsyg\"", 
+          "id": "Ugzt3l2SVtowEyinJSB4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCJV4d8jvyS2eMzIPHhTfYsg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJV4d8jvyS2eMzIPHhTfYsg", 
+            "authorDisplayName": "Queen_ yesii__", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-k2XJKLHJpLA/AAAAAAAAAAI/AAAAAAAAAAA/fgjGcHJ4t2E/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T12:57:04.000Z", 
+            "textDisplay": "love you \ud83d\udc9c\ud83d\udc9c love your videos .. sometimes late but always waching it\ud83d\ude0d\ud83d\ude0d", 
+            "textOriginal": "love you \ud83d\udc9c\ud83d\udc9c love your videos .. sometimes late but always waching it\ud83d\ude0d\ud83d\ude0d", 
+            "updatedAt": "2019-01-26T12:57:04.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vgOIaGAoUmpdCg-AFPa35HeBKt8\"", 
+      "id": "Ugxy_sDjm1gE8TdM_xR4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ImHVJvP9n-sW2Z3cI8Rr5BnFyy0\"", 
+          "id": "Ugxy_sDjm1gE8TdM_xR4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UChql1yMPNuIQlgprqAljIZQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UChql1yMPNuIQlgprqAljIZQ", 
+            "authorDisplayName": "Britt", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-NQIsvgxG-vk/AAAAAAAAAAI/AAAAAAAAAAA/TFcEDFbV8pU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 1, 
+            "publishedAt": "2019-01-26T12:42:18.000Z", 
+            "textDisplay": "I&#39;m in the middle of reading the book &quot;Spark Joy&quot; and it explains how to fold all different types of clothes but after you declutter what sparks joy to you and what doesn&#39;t. The show is fun to watch and explains some of her tips but doesn&#39;t go into detail like the book.", 
+            "textOriginal": "I'm in the middle of reading the book \"Spark Joy\" and it explains how to fold all different types of clothes but after you declutter what sparks joy to you and what doesn't. The show is fun to watch and explains some of her tips but doesn't go into detail like the book.", 
+            "updatedAt": "2019-01-26T12:42:18.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gkw89xQ5F_aMz4OZX275Fp_3o24\"", 
+      "id": "UgxGzEz_7F3jADjQYAR4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Jomol3FeyRF784VkYao2Xkl5cPI\"", 
+          "id": "UgxGzEz_7F3jADjQYAR4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCpImW881wcCMN6UfwABJW6w"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpImW881wcCMN6UfwABJW6w", 
+            "authorDisplayName": "Haintso Rakouth", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-kWzMPCr-iEw/AAAAAAAAAAI/AAAAAAAAAAA/sAEqBzhq0hc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T11:21:02.000Z", 
+            "textDisplay": "Your folding the right way. Marie does fold with the shirt down too. The art of folding that way is satisfying. You can see everything and honestly when I take out my clothes I get no wrinkles. Let us know if your husband kept the clothes folded the KonMari way", 
+            "textOriginal": "Your folding the right way. Marie does fold with the shirt down too. The art of folding that way is satisfying. You can see everything and honestly when I take out my clothes I get no wrinkles. Let us know if your husband kept the clothes folded the KonMari way", 
+            "updatedAt": "2019-01-26T11:44:12.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/V39QWZO3tytjnf9GaDlOVFLtBKg\"", 
+      "id": "UgyTJB9IlewAlYgQUx14AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/i6yoHTddxXX1wCnHP8pAVRVhL4w\"", 
+          "id": "UgyTJB9IlewAlYgQUx14AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC-pprANZyACAhYWTBug_4RQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-pprANZyACAhYWTBug_4RQ", 
+            "authorDisplayName": "Lisa Schreiber", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-JIu8a22Yfts/AAAAAAAAAAI/AAAAAAAAAAA/u_td82i9LTw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T09:36:34.000Z", 
+            "textDisplay": "yep, I folded mine like yours. I was kind of confused why she would do it the other way, all I could guess is that she doesn&#39;t have graphic tees so she didn&#39;t need to worry about it.", 
+            "textOriginal": "yep, I folded mine like yours. I was kind of confused why she would do it the other way, all I could guess is that she doesn't have graphic tees so she didn't need to worry about it.", 
+            "updatedAt": "2019-01-26T09:36:34.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2VEhC8ukPAew7D01sTdbEjrUXzk\"", 
+      "id": "UgwiokubnEN0o71QgCZ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/c70EoUIFjnzv6hFt2Fl5IP6nm9c\"", 
+          "id": "UgwiokubnEN0o71QgCZ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCvJNsxnUexrCpbYXWhec4IA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvJNsxnUexrCpbYXWhec4IA", 
+            "authorDisplayName": "Kristyl Peach", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ppFnbthRqdc/AAAAAAAAAAI/AAAAAAAAAAA/BIAXDd3W-NE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T07:59:42.000Z", 
+            "textDisplay": "Freshly organized and folded drawers are one of the best things. \ud83d\ude29\ud83e\udd70 Another wonderful upload girl!!", 
+            "textOriginal": "Freshly organized and folded drawers are one of the best things. \ud83d\ude29\ud83e\udd70 Another wonderful upload girl!!", 
+            "updatedAt": "2019-01-26T07:59:42.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_QwqHutxYn-paxf1gyHaiA2MkV8\"", 
+      "id": "Ugzni6GzMlPmX8lrRLJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pA4dNQDN1Cq3jNpMM9AEfrYZ6UI\"", 
+          "id": "Ugzni6GzMlPmX8lrRLJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCZPtMvuqPX7sPBm6dRe-ZXQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZPtMvuqPX7sPBm6dRe-ZXQ", 
+            "authorDisplayName": "Sasha C", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-HNquruYiLu8/AAAAAAAAAAI/AAAAAAAAAAA/pQ3nebalKyo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T07:51:19.000Z", 
+            "textDisplay": "I freaking loved this! I def binged the marie kondo show when it came out. How satisfying is it now to see those drawers? I did this a couple years ago to our drawers, (minus the socks, bc my husband likes to have them like u did before) and it&#39;s so satisfying seeing everything I have. But if you end up doing sweaters, I&#39;d love to see it - they&#39;re so thick I wonder if they can be konmari-d in a drawer.", 
+            "textOriginal": "I freaking loved this! I def binged the marie kondo show when it came out. How satisfying is it now to see those drawers? I did this a couple years ago to our drawers, (minus the socks, bc my husband likes to have them like u did before) and it's so satisfying seeing everything I have. But if you end up doing sweaters, I'd love to see it - they're so thick I wonder if they can be konmari-d in a drawer.", 
+            "updatedAt": "2019-01-26T07:51:19.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sc_ZETrDQzaEHHAFEPfuA4wVXIk\"", 
+      "id": "Ugzf6cuaxetWe7pyyP14AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/p2lCLQJCbmNfup1Znp_nkIc2fj4\"", 
+          "id": "Ugzf6cuaxetWe7pyyP14AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCdABBl5gclRMgOeZclIAh1g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdABBl5gclRMgOeZclIAh1g", 
+            "authorDisplayName": "Aggeliki A", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Xj5FV9smfQ4/AAAAAAAAAAI/AAAAAAAAAAA/W4fCBzFxyqE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T07:38:08.000Z", 
+            "textDisplay": "Bravo \ud83c\udf39", 
+            "textOriginal": "Bravo \ud83c\udf39", 
+            "updatedAt": "2019-01-26T07:38:08.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_YqqOoS2EoEnhTjwq8SfsoKD_eI\"", 
+      "id": "UgwNRx29U8gRNvxxtDF4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZnAMMMynLkVKKm4uHWE9X8nDQaQ\"", 
+          "id": "UgwNRx29U8gRNvxxtDF4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC_Ara70SHVelpkEYORCJrNw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_Ara70SHVelpkEYORCJrNw", 
+            "authorDisplayName": "Pam B", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-nhEohwypbRU/AAAAAAAAAAI/AAAAAAAAAAA/4NBQFa6--ro/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T07:25:31.000Z", 
+            "textDisplay": "I\u2019m so glad we don\u2019t have Netflix. I have never really been organized. I try, but I get tired of dealing with it and quit. I guess her method is good. But I\u2019m not really interested. We\u2019re wanting to move. So I know I will have to get rid of at least half of what I have. We\u2019ve lived here for over 26 years. We have a lot of crap to get rid of. So maybe after that I can try it.", 
+            "textOriginal": "I\u2019m so glad we don\u2019t have Netflix. I have never really been organized. I try, but I get tired of dealing with it and quit. I guess her method is good. But I\u2019m not really interested. We\u2019re wanting to move. So I know I will have to get rid of at least half of what I have. We\u2019ve lived here for over 26 years. We have a lot of crap to get rid of. So maybe after that I can try it.", 
+            "updatedAt": "2019-01-26T07:25:31.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 1, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9HQ2WL4wTQsjsHtbh2s2eq1tSvg\"", 
+      "id": "UgzUPoSgPi1ycEGYezF4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qGJC1fwjTI09LeayM2IL4_eBJaY\"", 
+          "id": "UgzUPoSgPi1ycEGYezF4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCFptRO9bwmXtIMC_Xk_Yo7w"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFptRO9bwmXtIMC_Xk_Yo7w", 
+            "authorDisplayName": "jpeachy 4u", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Gv-j0cG6ePA/AAAAAAAAAAI/AAAAAAAAAAA/I68WlcbyCF0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T06:47:45.000Z", 
+            "textDisplay": "I felt the same way about the way she folded tees. So I folded mine the way you did. I didn&#39;t thank my stuff, what I didn&#39;t keep I told it &quot;you are the weakest link, goodbye!&quot;. You might be a little young to know that game show and the hilariously obnoxious host of it. Great video btw\u263a", 
+            "textOriginal": "I felt the same way about the way she folded tees. So I folded mine the way you did. I didn't thank my stuff, what I didn't keep I told it \"you are the weakest link, goodbye!\". You might be a little young to know that game show and the hilariously obnoxious host of it. Great video btw\u263a", 
+            "updatedAt": "2019-01-26T06:47:45.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ww8x0NtgYipiaBK8jCWXdKOY5WM\"", 
+      "id": "UgzBhhkulselKwF-PVZ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/e1zWkrdKNxyE0Kds5NDPNX6sTzc\"", 
+          "id": "UgzBhhkulselKwF-PVZ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCPk2mjfw4zTGkQ68iyZeOVw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPk2mjfw4zTGkQ68iyZeOVw", 
+            "authorDisplayName": "Kiara L.", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/--bDTI9QCd9I/AAAAAAAAAAI/AAAAAAAAAAA/xRXeOUQnBsw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T06:01:00.000Z", 
+            "textDisplay": "I waited for your video to finally find out what this whole craze was about!", 
+            "textOriginal": "I waited for your video to finally find out what this whole craze was about!", 
+            "updatedAt": "2019-01-26T06:01:00.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6yZvBaKY0la3WfUpRAj5Xylz7f4\"", 
+      "id": "Ugy_JuS4kbS9jVx3DmJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZMQFBJDfez8Di9ED6_ycSnsxUY8\"", 
+          "id": "Ugy_JuS4kbS9jVx3DmJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCPTd5ayni02G-2GZsX2hPGA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPTd5ayni02G-2GZsX2hPGA", 
+            "authorDisplayName": "Denise Rodriguez", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/--jza9YQ1ChY/AAAAAAAAAAI/AAAAAAAAAAA/Bo56Fui_ZTY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T04:01:14.000Z", 
+            "textDisplay": "Love your videos! <br /><br />Lol but where did you get your pink glittery shoes", 
+            "textOriginal": "Love your videos! \n\nLol but where did you get your pink glittery shoes", 
+            "updatedAt": "2019-01-26T04:01:41.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gZIFV3EB4fiappC24J-l7sCAh5I\"", 
+      "id": "UgzbjiETjrW177wwyHx4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zzZcNq7bPbVDjyfhNLQbnDg-4hA\"", 
+          "id": "UgzbjiETjrW177wwyHx4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC2R4MHpY5kXLzkp7_EOSeuw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2R4MHpY5kXLzkp7_EOSeuw", 
+            "authorDisplayName": "Amanda Bradley", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-tx9I6f-Csf8/AAAAAAAAAAI/AAAAAAAAAAA/aAEKcAbA4ns/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 1, 
+            "publishedAt": "2019-01-26T03:27:49.000Z", 
+            "textDisplay": "Wow so many T-shirt\u2019s! Did you discard? I thought Konmari was all about prioritising?", 
+            "textOriginal": "Wow so many T-shirt\u2019s! Did you discard? I thought Konmari was all about prioritising?", 
+            "updatedAt": "2019-01-26T03:29:47.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-Ja0NkmytMVa9NTm4Iwb8uAlJGM\"", 
+      "id": "UgwKudE7u1fxBJZzHnl4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nJXcp4rzJShLBra_7uNBfCYIY4M\"", 
+          "id": "UgwKudE7u1fxBJZzHnl4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC0wISomRLQQhCazTPtTFFBQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0wISomRLQQhCazTPtTFFBQ", 
+            "authorDisplayName": "Packer lvr", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ptLDkgkU0BE/AAAAAAAAAAI/AAAAAAAAAAA/n9ySJCiNNVU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 2, 
+            "publishedAt": "2019-01-26T03:01:11.000Z", 
+            "textDisplay": "I always fold my t-shirts face down for exactly the reason you said. Although most of mine are plain with no writing/pictures. And you did a better job than I do! It seemed like another chore at first, but now I find it relaxing and I love the way my drawers look.", 
+            "textOriginal": "I always fold my t-shirts face down for exactly the reason you said. Although most of mine are plain with no writing/pictures. And you did a better job than I do! It seemed like another chore at first, but now I find it relaxing and I love the way my drawers look.", 
+            "updatedAt": "2019-01-26T03:01:11.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Q6YQ-CEziCU2S3shxyMtmDqsE48\"", 
+      "id": "UgyMg06VK6cpwUzdsqJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZI6bT7nHL22bfqXy-UsEj3RFTww\"", 
+          "id": "UgyMg06VK6cpwUzdsqJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCaD1EyZsivrLyjaS1qhLMlA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaD1EyZsivrLyjaS1qhLMlA", 
+            "authorDisplayName": "Sophia George", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-rlqxqQrAxgg/AAAAAAAAAAI/AAAAAAAAAAA/aHL4L2h4_AA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T02:31:59.000Z", 
+            "textDisplay": "This is awesome I do do this I&#39;m happy your enjoying it so am I it&#39;s so much fun and it makes me feel happy \ud83d\ude0a\ud83d\ude0a\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udc4d\ud83d\udc4b\ud83d\udc4b\ud83d\udc95\ud83d\udc90\ud83d\ude09", 
+            "textOriginal": "This is awesome I do do this I'm happy your enjoying it so am I it's so much fun and it makes me feel happy \ud83d\ude0a\ud83d\ude0a\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udc4d\ud83d\udc4b\ud83d\udc4b\ud83d\udc95\ud83d\udc90\ud83d\ude09", 
+            "updatedAt": "2019-01-26T02:31:59.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fe6p55Vx0GU8_NAkC2pw_xQthKQ\"", 
+      "id": "UgwF3r9iejd9RslokhJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2aehL6Q_sUkYKjvrRPmmYFAG5zY\"", 
+          "id": "UgwF3r9iejd9RslokhJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCp-6z7jKoC_4ezy3jWRrmpA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCp-6z7jKoC_4ezy3jWRrmpA", 
+            "authorDisplayName": "Mercedes Minaya", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-JafPe24yUs0/AAAAAAAAAAI/AAAAAAAAAAA/cueHoUP4-xs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T01:52:26.000Z", 
+            "textDisplay": "Thank you so much for this video!!!  I was planning on organizing my drawers this weekend and just got motivated some more to do it!  I have clear bins filled with workout gear and towels underneath my bed that I know I can get rid of if I organize!  Please do one of your linen soon I definitely will need to tackle that soon too!  Good thing is that they are already in baskets!  Thank you thank you! \u263a\ufe0f\ud83d\udc98", 
+            "textOriginal": "Thank you so much for this video!!!  I was planning on organizing my drawers this weekend and just got motivated some more to do it!  I have clear bins filled with workout gear and towels underneath my bed that I know I can get rid of if I organize!  Please do one of your linen soon I definitely will need to tackle that soon too!  Good thing is that they are already in baskets!  Thank you thank you! \u263a\ufe0f\ud83d\udc98", 
+            "updatedAt": "2019-01-26T01:52:26.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/q9c0LcAeEluJ8hazi1WdLr_vRJ0\"", 
+      "id": "UgwDfzs0YPYbTMD-n4d4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LZgKpA7jK_u29lCeLGbQfSYZHg0\"", 
+          "id": "UgwDfzs0YPYbTMD-n4d4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCutGOEJuxh98xbd78aR5y6w"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCutGOEJuxh98xbd78aR5y6w", 
+            "authorDisplayName": "Kara Bow", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/--sKfTGYvKxw/AAAAAAAAAAI/AAAAAAAAAAA/xUVHXOxhDCQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T01:34:28.000Z", 
+            "textDisplay": "I was ready to go to bed until I watched this video... now I\u2019m reorganizing my husband\u2019s clothes. \ud83e\udd23", 
+            "textOriginal": "I was ready to go to bed until I watched this video... now I\u2019m reorganizing my husband\u2019s clothes. \ud83e\udd23", 
+            "updatedAt": "2019-01-26T01:34:28.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AAUHK9QmrTtey-_92-VCgsGTa_Y\"", 
+      "id": "UgyJijiY-8AjgSid2Hh4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rbbl_60J5HlMjE_GWHlZPHFpaYY\"", 
+          "id": "UgyJijiY-8AjgSid2Hh4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCmjNuC6PGQvdv5JboX8C7UQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmjNuC6PGQvdv5JboX8C7UQ", 
+            "authorDisplayName": "Natalie Craig", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-DbjnnyMIbLU/AAAAAAAAAAI/AAAAAAAAAAA/8-a7NN4sBuA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T00:42:29.000Z", 
+            "textDisplay": "I\u2019ve heard so much about this method that I had to pause your video and head to Netflix to see what everyone is raving over with this method. I watched the first episode and I\u2019m sold!! I will definitely be incorporating her methods in my home. Keep the motivation coming. I\u2019m here for it!!! \ud83d\udc95\ud83d\udc95\ud83d\udc95", 
+            "textOriginal": "I\u2019ve heard so much about this method that I had to pause your video and head to Netflix to see what everyone is raving over with this method. I watched the first episode and I\u2019m sold!! I will definitely be incorporating her methods in my home. Keep the motivation coming. I\u2019m here for it!!! \ud83d\udc95\ud83d\udc95\ud83d\udc95", 
+            "updatedAt": "2019-01-26T00:42:29.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/l_z_tPBbzneWwlo3wk5RydbeIlU\"", 
+      "id": "Ugw7plzyWWGLl_4_sph4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/O-f3rk64-FrZ30BmsdORISEI6GQ\"", 
+          "id": "Ugw7plzyWWGLl_4_sph4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCq_G9tEc1Qoaj-qge_2iaMw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCq_G9tEc1Qoaj-qge_2iaMw", 
+            "authorDisplayName": "allthingstaty", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ydeI5Jc4TLo/AAAAAAAAAAI/AAAAAAAAAAA/TNeiIXPp9JI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 15, 
+            "publishedAt": "2019-01-26T00:38:38.000Z", 
+            "textDisplay": "I did kon mari method about 2 years ago, its funny how now everyone is doing it. The Konmari method is more than just folding, its more about keeping things that spark joy in your life and realizing that you don&#39;t need so many things, clothes etc. less is more in my opinion. The book does a better job at explaining things than the netflix show. I was surprised you didn&#39;t get rid of things when you saw the drawers were jam packed.", 
+            "textOriginal": "I did kon mari method about 2 years ago, its funny how now everyone is doing it. The Konmari method is more than just folding, its more about keeping things that spark joy in your life and realizing that you don't need so many things, clothes etc. less is more in my opinion. The book does a better job at explaining things than the netflix show. I was surprised you didn't get rid of things when you saw the drawers were jam packed.", 
+            "updatedAt": "2019-01-26T00:38:38.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 1, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GJPNY1AEabdNfMq8WtD7BV7LUP4\"", 
+      "id": "UgzCvGGfLvF1_ov40954AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tW95m9uacTYeoR6CDFiYuw5Yrfs\"", 
+          "id": "UgzCvGGfLvF1_ov40954AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCesgSUzo2fnIGtxsxVIIl9g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCesgSUzo2fnIGtxsxVIIl9g", 
+            "authorDisplayName": "Adrienne Dargis", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ifUbaNQq684/AAAAAAAAAAI/AAAAAAAAAAA/DgpOXfbarng/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T00:06:34.000Z", 
+            "textDisplay": "Hi \u263a\ufe0f love this video! I will be going through my drawers now!  Lol! Love your shirt and belt where are they from?", 
+            "textOriginal": "Hi \u263a\ufe0f love this video! I will be going through my drawers now!  Lol! Love your shirt and belt where are they from?", 
+            "updatedAt": "2019-01-26T00:06:34.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9sbo2JeELfup0R72Ig4UzD1Jpgg\"", 
+      "id": "UgyiDd670GcjHYkn9HR4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Xd9ySNxcE5xlN3Djg5reTwo_4g4\"", 
+          "id": "UgyiDd670GcjHYkn9HR4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCAXwPfvtV4DAoF55d5gAwMQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAXwPfvtV4DAoF55d5gAwMQ", 
+            "authorDisplayName": "Merche Levas", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-IPoPXWWml5U/AAAAAAAAAAI/AAAAAAAAAAA/eUK5C5JPNGU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-26T00:02:23.000Z", 
+            "textDisplay": "I see all the episodes here in spain, and i love it before,so now, i love her more!\u263a\ufe0f\ud83d\ude18\ud83d\ude18", 
+            "textOriginal": "I see all the episodes here in spain, and i love it before,so now, i love her more!\u263a\ufe0f\ud83d\ude18\ud83d\ude18", 
+            "updatedAt": "2019-01-26T00:02:23.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/V55qZBzZW8V_1QVyu4198hEGbTE\"", 
+      "id": "Ugy18IXcjezeNAqePjV4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4JSSzJlNEXog_BvYHmbqvh7fL6A\"", 
+          "id": "Ugy18IXcjezeNAqePjV4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCmp_eNfhHjh0ZKSKReCHoTA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmp_eNfhHjh0ZKSKReCHoTA", 
+            "authorDisplayName": "A J", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-3qkGtVAmcGg/AAAAAAAAAAI/AAAAAAAAAAA/uaktd2aBakc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T23:48:46.000Z", 
+            "textDisplay": "I love folding shirts that way. When I was younger my mom taught me to fold them that way so the shirts would all fit in the drawers and I\u2019ve always folded them that way ever since. Life changer!", 
+            "textOriginal": "I love folding shirts that way. When I was younger my mom taught me to fold them that way so the shirts would all fit in the drawers and I\u2019ve always folded them that way ever since. Life changer!", 
+            "updatedAt": "2019-01-25T23:48:46.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OMWECe8zFKefb2Pp28f-NR3gqqU\"", 
+      "id": "UgzNju122f5X0UwJAlt4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6J01OHG2hxq2EazVycTbfsyK97M\"", 
+          "id": "UgzNju122f5X0UwJAlt4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCXdRuXzln5jqFjTm9kFl8jw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXdRuXzln5jqFjTm9kFl8jw", 
+            "authorDisplayName": "sandy949", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/--XFvSpTxhVQ/AAAAAAAAAAI/AAAAAAAAAAA/yn9VfOHUX1Q/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T23:46:40.000Z", 
+            "textDisplay": "Agree! Prints on outside need to show. Nice job! \ud83d\udc4d", 
+            "textOriginal": "Agree! Prints on outside need to show. Nice job! \ud83d\udc4d", 
+            "updatedAt": "2019-01-25T23:46:40.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VEBWg3tnrihwO9GBS8eqamJD9BU\"", 
+      "id": "Ugw61o2syGQ5Qd6q_BJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2DTJTjFnu9BFpX2sEaeF5O0ZCsw\"", 
+          "id": "Ugw61o2syGQ5Qd6q_BJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCyZu8fuEwzrddYqgdTqb-2g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyZu8fuEwzrddYqgdTqb-2g", 
+            "authorDisplayName": "Heidi Baldwin", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Sw7GSh6nUJY/AAAAAAAAAAI/AAAAAAAAAAA/rs-yzk_01g4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 2, 
+            "publishedAt": "2019-01-25T23:38:01.000Z", 
+            "textDisplay": "With my pyjamas, I fold them into the long rectangle first then put the top on top of the bottoms before I fold into the small square. That way they go in together and never get seperated; you just pull out the whole set together! X", 
+            "textOriginal": "With my pyjamas, I fold them into the long rectangle first then put the top on top of the bottoms before I fold into the small square. That way they go in together and never get seperated; you just pull out the whole set together! X", 
+            "updatedAt": "2019-01-25T23:38:01.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oVvFz6MLKrgXI9SdEXTzCfCMhus\"", 
+      "id": "Ugw7dUMWqX3QpllAL9F4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QLje55Yg4tpNEDNLzi5uIeUJE74\"", 
+          "id": "Ugw7dUMWqX3QpllAL9F4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCH6GpLOQJ2QDd35AYXkfz-Q"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCH6GpLOQJ2QDd35AYXkfz-Q", 
+            "authorDisplayName": "Holly jj", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-MDOZaydrNMQ/AAAAAAAAAAI/AAAAAAAAAAA/9BDNIZdjukk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T23:12:31.000Z", 
+            "textDisplay": "You did a great job folding looks great!!! Yes love marie kondo her method is awesome if it sparks joy keep it if not get rid of it!\ud83d\udc97\ud83d\udc97\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95", 
+            "textOriginal": "You did a great job folding looks great!!! Yes love marie kondo her method is awesome if it sparks joy keep it if not get rid of it!\ud83d\udc97\ud83d\udc97\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95", 
+            "updatedAt": "2019-01-25T23:12:31.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cAHl_ZHH9bQywvwgoX8PykM2KN4\"", 
+      "id": "UgynkuNEozTuXf7HkdJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LkYDWDBMs8ETvSzWrymXsKfOTHQ\"", 
+          "id": "UgynkuNEozTuXf7HkdJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCJiLm_pp9ay3KyFWM_8jYMA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJiLm_pp9ay3KyFWM_8jYMA", 
+            "authorDisplayName": "cf.", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-srL9tCFWQl4/AAAAAAAAAAI/AAAAAAAAAAA/MTeFlYG7m4M/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T23:04:35.000Z", 
+            "textDisplay": "Thank you for this video! Totally going to do this.", 
+            "textOriginal": "Thank you for this video! Totally going to do this.", 
+            "updatedAt": "2019-01-25T23:04:35.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KtHYcCg6c8eeRbR0GADNtd3Wyf0\"", 
+      "id": "UgyGvZ8GOs1wAMXG3XN4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZaeR6mNIpvFx3B5cwzoNT9DoLyo\"", 
+          "id": "UgyGvZ8GOs1wAMXG3XN4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC4dqKKLwIxzqIPaIwwC-hAA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4dqKKLwIxzqIPaIwwC-hAA", 
+            "authorDisplayName": "Lovely Alli", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-dburCl2jE_g/AAAAAAAAAAI/AAAAAAAAAAA/qAeIRu6XhHY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T22:59:42.000Z", 
+            "textDisplay": "So organized \ud83d\ude0d so motivating! I really need to do this to my clothes lol thanks for another great video!! \ud83d\ude4c\ud83c\udffd", 
+            "textOriginal": "So organized \ud83d\ude0d so motivating! I really need to do this to my clothes lol thanks for another great video!! \ud83d\ude4c\ud83c\udffd", 
+            "updatedAt": "2019-01-25T22:59:42.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FZ79u6bJaps_3Enxk9DiSXwcF_w\"", 
+      "id": "Ugzd8PiJo4khNZIGSgx4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yhap5De7xvuDcosXI4Rpqiss4OQ\"", 
+          "id": "Ugzd8PiJo4khNZIGSgx4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC0LrvpD-iGPuD0Ry9sgS7Tw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0LrvpD-iGPuD0Ry9sgS7Tw", 
+            "authorDisplayName": "Maria Cortes", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-IJmJ9BLdICQ/AAAAAAAAAAI/AAAAAAAAAAA/rvc8lnYw7MY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T22:58:01.000Z", 
+            "textDisplay": "Hi ale More videos please !!!!!\ud83d\udc97\ud83d\udc4c\ud83d\udc4f\ud83d\ude18", 
+            "textOriginal": "Hi ale More videos please !!!!!\ud83d\udc97\ud83d\udc4c\ud83d\udc4f\ud83d\ude18", 
+            "updatedAt": "2019-01-25T22:58:01.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Ffc_86eqyJvbsnVNHGQ0juEJ7LE\"", 
+      "id": "Ugw_-LnxTwOHu1Evtgl4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ASzxp6nsSpfPlOY12oyNDBZb-AM\"", 
+          "id": "Ugw_-LnxTwOHu1Evtgl4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC0ZIGzZl42cOgYqkAcq1VZw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0ZIGzZl42cOgYqkAcq1VZw", 
+            "authorDisplayName": "Anna Osburn", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/--Z7dtKFqrHw/AAAAAAAAAAI/AAAAAAAAAAA/NRI64VZKxnw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T22:41:57.000Z", 
+            "textDisplay": "Where did you get your square pillows with the Pom poms on it? Please and Thanks \u2764\ufe0f", 
+            "textOriginal": "Where did you get your square pillows with the Pom poms on it? Please and Thanks \u2764\ufe0f", 
+            "updatedAt": "2019-01-25T22:41:57.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/n_daseserRga0uS1uEZtWcb_bpI\"", 
+      "id": "UgyUl2fzXiGtmXyQNcN4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5lRLAGm_zuXZDnxM6TA-iVL6BiA\"", 
+          "id": "UgyUl2fzXiGtmXyQNcN4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCF_9WjDFGosi5r27eK-TUpQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCF_9WjDFGosi5r27eK-TUpQ", 
+            "authorDisplayName": "His and Hers", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-NgBt4ZBP2Q8/AAAAAAAAAAI/AAAAAAAAAAA/R3P-y3oYNEo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T22:31:40.000Z", 
+            "textDisplay": "New Subbie! love your videos already!", 
+            "textOriginal": "New Subbie! love your videos already!", 
+            "updatedAt": "2019-01-25T22:31:40.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lC94tC2wjh0ZYrCTcbTfxifN8Q4\"", 
+      "id": "UgyuXCF6MuqunWgiN2t4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wzmqGnhk65KJ5geWaGBuvpaa254\"", 
+          "id": "UgyuXCF6MuqunWgiN2t4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCRMBDVYu9D9CamXZW5xgKVw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRMBDVYu9D9CamXZW5xgKVw", 
+            "authorDisplayName": "Dee Rodriguez", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Xkjrfcl9fR4/AAAAAAAAAAI/AAAAAAAAAAA/LriUvMtxtx4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T22:06:29.000Z", 
+            "textDisplay": "\ud83d\ude18\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d", 
+            "textOriginal": "\ud83d\ude18\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d", 
+            "updatedAt": "2019-01-25T22:06:29.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DqUXwuSFaJebsi_QhavqFyPPTQw\"", 
+      "id": "UgyL9uESDJPqzRGejj94AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3WrtTv0Xdtbj37rMg2JViALzaOs\"", 
+          "id": "UgyL9uESDJPqzRGejj94AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCDDD9D35nEa0y0M67jGS1dA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDDD9D35nEa0y0M67jGS1dA", 
+            "authorDisplayName": "Dina Ponusky", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-afcJ9fLRFes/AAAAAAAAAAI/AAAAAAAAAAA/f-F5I-s_prA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T22:03:13.000Z", 
+            "textDisplay": "Girl...I wanna be your neighbor...we would have so much fun shopping,  organizing,  cleaning,  and eating avacados... lol...love this vlog...enjoy your night! \ud83d\ude03\ud83d\udc9c", 
+            "textOriginal": "Girl...I wanna be your neighbor...we would have so much fun shopping,  organizing,  cleaning,  and eating avacados... lol...love this vlog...enjoy your night! \ud83d\ude03\ud83d\udc9c", 
+            "updatedAt": "2019-01-25T22:03:13.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DKma_XoDAVBjnphdcTCqjgS9gW0\"", 
+      "id": "UgwlI_Gcb4eFWeqXmgJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OH8ZoQEbuZ7UoWA8RDSbRIAIfPE\"", 
+          "id": "UgwlI_Gcb4eFWeqXmgJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC6UtQElEju7OFl5BD91UDlg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6UtQElEju7OFl5BD91UDlg", 
+            "authorDisplayName": "Lequan Lewis", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-GFd2SIXDnxo/AAAAAAAAAAI/AAAAAAAAAAA/tqBZMk24Ymg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T21:45:47.000Z", 
+            "textDisplay": "Thank you so much for the suggestion I can&#39;t wait to get home and do this!! But I did have a quick question do you think that is going to be a problem with plus size t-shirts?", 
+            "textOriginal": "Thank you so much for the suggestion I can't wait to get home and do this!! But I did have a quick question do you think that is going to be a problem with plus size t-shirts?", 
+            "updatedAt": "2019-01-25T21:45:47.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/3Bn1do1ZJExp-t5Y6dR2jRPgwLE\"", 
+      "id": "Ugw29AtopNoyEBrXcCt4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/r910e2Z4R8MDhcneqHiW_a_v6GA\"", 
+          "id": "Ugw29AtopNoyEBrXcCt4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCkYiXGwsC-94nm7g9vHEdXw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkYiXGwsC-94nm7g9vHEdXw", 
+            "authorDisplayName": "Maura Eaves", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-75EdPESX8Bw/AAAAAAAAAAI/AAAAAAAAAAA/lcE8shUnCp8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 1, 
+            "publishedAt": "2019-01-25T21:39:46.000Z", 
+            "textDisplay": "I think your husband has more clothes than I do \ud83d\ude06", 
+            "textOriginal": "I think your husband has more clothes than I do \ud83d\ude06", 
+            "updatedAt": "2019-01-25T21:39:46.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/N9E9c2hKe_oDHWSHQD6f3V81jcg\"", 
+      "id": "Ugyu2BcqbqH7FXDSfg14AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kQbBOcB0P9n43YcmyAw0RNyMMNo\"", 
+          "id": "Ugyu2BcqbqH7FXDSfg14AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCIpwicOeVV7mshRjjsYsyYw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIpwicOeVV7mshRjjsYsyYw", 
+            "authorDisplayName": "Melissa Cruz", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-qKeAN5gdPzo/AAAAAAAAAAI/AAAAAAAAAAA/uuoAi28hyNM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T21:29:08.000Z", 
+            "textDisplay": "Great job Alexandra!! I\u2019ve been inspired to do the same \ud83d\ude0a.", 
+            "textOriginal": "Great job Alexandra!! I\u2019ve been inspired to do the same \ud83d\ude0a.", 
+            "updatedAt": "2019-01-25T21:29:08.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jN8HtxFU7VoPuPQkywL6dLq_lBw\"", 
+      "id": "Ugy7-w0j8mIV6rZVN0x4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5EwgRNQ8dE9sJ6FQefGG7T6jNjY\"", 
+          "id": "Ugy7-w0j8mIV6rZVN0x4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC13vo08HF9T0hZVzVEwXtIQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC13vo08HF9T0hZVzVEwXtIQ", 
+            "authorDisplayName": "Gee Cee", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-LVknWXgA984/AAAAAAAAAAI/AAAAAAAAAAA/xG74dD-dLxU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 1, 
+            "publishedAt": "2019-01-25T21:25:26.000Z", 
+            "textDisplay": "You\u2019re late to the game", 
+            "textOriginal": "You\u2019re late to the game", 
+            "updatedAt": "2019-01-25T21:25:26.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/O_NNKegq4j0hMXTUqp6rN9ffuZE\"", 
+      "id": "UgzvI6p9Pc00f13xnvx4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qxFhvJMpJuIz1MJUmAgNY5qb2uk\"", 
+          "id": "UgzvI6p9Pc00f13xnvx4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCCbT-cvLmlKUV6RJCQPbAfQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCbT-cvLmlKUV6RJCQPbAfQ", 
+            "authorDisplayName": "Mary C", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ie_cdXvFkBw/AAAAAAAAAAI/AAAAAAAAAAA/y8RckWupiRA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T21:20:53.000Z", 
+            "textDisplay": "Hi!\ud83d\ude03 where did you buy your top? Love the color", 
+            "textOriginal": "Hi!\ud83d\ude03 where did you buy your top? Love the color", 
+            "updatedAt": "2019-01-25T21:22:19.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/k-GD3GyxIP2JSdoPzuY01xZL5jo\"", 
+      "id": "UgxnaHJnMiIGOnmanMB4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/xTLMe7gkarwIeGLRswQ3aAfwzXw\"", 
+          "id": "UgxnaHJnMiIGOnmanMB4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCdbCuZfo3NppuoIimR-yT2g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdbCuZfo3NppuoIimR-yT2g", 
+            "authorDisplayName": "Carolyn Shane", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-6QsvO_Xs5XM/AAAAAAAAAAI/AAAAAAAAAAA/y80Z1l4tbI8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T21:00:09.000Z", 
+            "textDisplay": "I loved this!! I have not read her book or watched the show (yet) but I have heard wonderful things about both of them! All my dressers in my house need to have a full Kon Mari declutter \ud83d\ude30 but the results will be totally worth it. I can definitely see how doing this would be relaxing too \ud83d\udc97 great job!!", 
+            "textOriginal": "I loved this!! I have not read her book or watched the show (yet) but I have heard wonderful things about both of them! All my dressers in my house need to have a full Kon Mari declutter \ud83d\ude30 but the results will be totally worth it. I can definitely see how doing this would be relaxing too \ud83d\udc97 great job!!", 
+            "updatedAt": "2019-01-25T21:00:09.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Tvi5Wq56uj8BLiwb24CDiNohem8\"", 
+      "id": "UgzPWjyQHVfsY_uBZEh4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/w3k14D1Q1zEY7vNVbt1FMj_pWB8\"", 
+          "id": "UgzPWjyQHVfsY_uBZEh4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCaI0M6Du1sDOhsBMw_HBVtQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaI0M6Du1sDOhsBMw_HBVtQ", 
+            "authorDisplayName": "Dream Dominguez", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-WkJ2ysJyRWc/AAAAAAAAAAI/AAAAAAAAAAA/qk3_ZYcBqxk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T20:59:20.000Z", 
+            "textDisplay": "I really joined this video please do more \u2728\ud83d\ude0d", 
+            "textOriginal": "I really joined this video please do more \u2728\ud83d\ude0d", 
+            "updatedAt": "2019-01-25T20:59:20.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-OP3rvrH3pcXVOklcOv5jVUF1gs\"", 
+      "id": "Ugx6aMlbH6T6suvsEW94AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fEvRh-66pcrKLO0U5Mun2PwGk3U\"", 
+          "id": "Ugx6aMlbH6T6suvsEW94AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCl1ls5LrngYElRav1yZWW4g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCl1ls5LrngYElRav1yZWW4g", 
+            "authorDisplayName": "Melanie Lyons", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-xmr64QGV6_8/AAAAAAAAAAI/AAAAAAAAAAA/iVaIa5IZ22U/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T20:59:14.000Z", 
+            "textDisplay": "Oooo thanks Alexandra, I\u2019m defo trying the husband T-shirt folding technique for his shirts with pics on so he can see what he\u2019s reaching for \ud83d\ude01\ud83d\udc4d i can see it would be quite soul destroying after all that folding though if they mess it up, hopefully he will like it that much he\u2019s careful \u263a\ufe0f xxx", 
+            "textOriginal": "Oooo thanks Alexandra, I\u2019m defo trying the husband T-shirt folding technique for his shirts with pics on so he can see what he\u2019s reaching for \ud83d\ude01\ud83d\udc4d i can see it would be quite soul destroying after all that folding though if they mess it up, hopefully he will like it that much he\u2019s careful \u263a\ufe0f xxx", 
+            "updatedAt": "2019-01-25T20:59:14.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GkQf8hY4kZrf1p0rh7fLMXpSGP0\"", 
+      "id": "Ugw799m2LpP-GQC0udp4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sW2K26Mr7e9p3KmJA7QLKzNlhjQ\"", 
+          "id": "Ugw799m2LpP-GQC0udp4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC8qZay3ZSrAvntuDOe5k8SQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8qZay3ZSrAvntuDOe5k8SQ", 
+            "authorDisplayName": "itslinslife", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-kg2nN0vz790/AAAAAAAAAAI/AAAAAAAAAAA/GxAdgbmxzoA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T20:58:48.000Z", 
+            "textDisplay": "Great Motivation, You looks so pretty. Loved watching the video", 
+            "textOriginal": "Great Motivation, You looks so pretty. Loved watching the video", 
+            "updatedAt": "2019-01-25T20:58:48.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/E0IYc1SzBmprcB42N5KhvXMs48E\"", 
+      "id": "UgzmdWcvPT_mTwEGzEp4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ozyd8pIDDmhIEjT4tlhh-zf-YTU\"", 
+          "id": "UgzmdWcvPT_mTwEGzEp4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCFgekO--Dwqa5FyE7n3vjSg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFgekO--Dwqa5FyE7n3vjSg", 
+            "authorDisplayName": "Renee Campbell", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/--dTpFLSKlns/AAAAAAAAAAI/AAAAAAAAAAA/vcDvpOmf8us/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 6, 
+            "publishedAt": "2019-01-25T20:55:06.000Z", 
+            "textDisplay": "I\u2019m so confused that you didn\u2019t do the spark of joy and then get rid of a bunch of stuff? That\u2019s really what Kon Mari is about, not just folding...", 
+            "textOriginal": "I\u2019m so confused that you didn\u2019t do the spark of joy and then get rid of a bunch of stuff? That\u2019s really what Kon Mari is about, not just folding...", 
+            "updatedAt": "2019-01-25T20:55:06.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YYH67cqkTCNZr2vOxiidKLU44jY\"", 
+      "id": "Ugy10iYcXzIW_FjPdch4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aimr9jcossHYqQG3c5DEfYikiGw\"", 
+          "id": "Ugy10iYcXzIW_FjPdch4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC2fVDWsn1ppFfudHdtZM_Eg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2fVDWsn1ppFfudHdtZM_Eg", 
+            "authorDisplayName": "Cynthia Escamilla", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-1GDsBTl6KpI/AAAAAAAAAAI/AAAAAAAAAAA/GkjmPY035zM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T20:54:55.000Z", 
+            "textDisplay": "I love the KonMari method, it makes everything less stressful and clutter free. Please keep the videos coming. I enjoyed this one so much.", 
+            "textOriginal": "I love the KonMari method, it makes everything less stressful and clutter free. Please keep the videos coming. I enjoyed this one so much.", 
+            "updatedAt": "2019-01-25T20:55:27.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jomlWox2QHdTRQ3Nc01rHAHRGqc\"", 
+      "id": "UgwrfhotL-W1cJ0-MoV4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/uD9Sr9Vvnhs0gufuJyXjxKdoX9k\"", 
+          "id": "UgwrfhotL-W1cJ0-MoV4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCWynQ848PgaL81SAtJB8sAA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWynQ848PgaL81SAtJB8sAA", 
+            "authorDisplayName": "CocoShawnelle", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-WGGMx4TM5XQ/AAAAAAAAAAI/AAAAAAAAAAA/azEMogvJFoE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T20:52:04.000Z", 
+            "textDisplay": "Love her videos!! Totally inspired me to make one on my channel! Lol now I watch it and I feel so proud \ud83d\ude02\ud83d\ude02", 
+            "textOriginal": "Love her videos!! Totally inspired me to make one on my channel! Lol now I watch it and I feel so proud \ud83d\ude02\ud83d\ude02", 
+            "updatedAt": "2019-01-25T20:52:04.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/j4GU9oEdkwgB17kigR83gaAVeS4\"", 
+      "id": "UgzLSB62UuwtflgoLkt4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BDMHSiNtURybcqRKen-yi5CA1_U\"", 
+          "id": "UgzLSB62UuwtflgoLkt4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCfan-of-JeHuRqdlFVP9mVQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCfan-of-JeHuRqdlFVP9mVQ", 
+            "authorDisplayName": "Elise", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-MmJPq6w05GM/AAAAAAAAAAI/AAAAAAAAAAA/HSc-nVPkwfU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 1, 
+            "publishedAt": "2019-01-25T20:30:40.000Z", 
+            "textDisplay": "I live with my boyfriend and he claims he doesn\u2019t know how to fold anything (no technique involved) \ud83d\ude42\ud83d\ude42\ud83d\ude42", 
+            "textOriginal": "I live with my boyfriend and he claims he doesn\u2019t know how to fold anything (no technique involved) \ud83d\ude42\ud83d\ude42\ud83d\ude42", 
+            "updatedAt": "2019-01-25T20:30:40.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ybIghJ00mSx81zRMBZGlMgIv-7M\"", 
+      "id": "UgyoAKWFBJWt3UB01654AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VARNbJXZ3Kkt21pGyjwlE3G8VRU\"", 
+          "id": "UgyoAKWFBJWt3UB01654AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC8otDwzZrXHdBpOZS0uB-ag"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8otDwzZrXHdBpOZS0uB-ag", 
+            "authorDisplayName": "ChristinaStevensM.U.A.", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-yMbAQ7XFOXE/AAAAAAAAAAI/AAAAAAAAAAA/Shv-qg4eIqk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T20:29:02.000Z", 
+            "textDisplay": "Where did you get the mirror above your dresser?", 
+            "textOriginal": "Where did you get the mirror above your dresser?", 
+            "updatedAt": "2019-01-25T20:29:02.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TrMtA-U_kbxYpn4pzqep4Y_R6sU\"", 
+      "id": "UgwiWpjBdEvIGEa9lI54AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/u6FFsrwlQaV6tXHkKjC8CbYcki0\"", 
+          "id": "UgwiWpjBdEvIGEa9lI54AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC7tIDKXhW9zw1z-6psCPYaA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7tIDKXhW9zw1z-6psCPYaA", 
+            "authorDisplayName": "Lydia Wiggs", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-yd_tpJIOzbc/AAAAAAAAAAI/AAAAAAAAAAA/DvE8J_L0OOo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T20:27:39.000Z", 
+            "textDisplay": "My favorite YouTuber everrrrr!!!!!!!!!", 
+            "textOriginal": "My favorite YouTuber everrrrr!!!!!!!!!", 
+            "updatedAt": "2019-01-25T20:27:39.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LOyCTqWyzRY2HY6UodbL6JX8TFQ\"", 
+      "id": "Ugz7aHUBeJBPVwsIJJJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kmukaZCy2cdRK480bPeT---Fo2A\"", 
+          "id": "Ugz7aHUBeJBPVwsIJJJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCSFl2s7VGoi6_S-g19mmZ6w"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSFl2s7VGoi6_S-g19mmZ6w", 
+            "authorDisplayName": "Autumn Gilbreath", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-w3xXLX760Co/AAAAAAAAAAI/AAAAAAAAAAA/Rje7VUaZjR0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T19:48:08.000Z", 
+            "textDisplay": "I\u2019d like a real life update on your drawers in about a month or so to see how realistic the upkeep is!!!", 
+            "textOriginal": "I\u2019d like a real life update on your drawers in about a month or so to see how realistic the upkeep is!!!", 
+            "updatedAt": "2019-01-25T19:48:08.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Dc3tCiFVIt3ymsGtls13pGKNMus\"", 
+      "id": "UgwXc-Gv-WocQXUuwph4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SPHn2NU9uHelR9FT7sazCrocux4\"", 
+          "id": "UgwXc-Gv-WocQXUuwph4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCN4pE4xJFDzDp94_ct-O5Dw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCN4pE4xJFDzDp94_ct-O5Dw", 
+            "authorDisplayName": "Sally Blue", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Bn0YjbYDClU/AAAAAAAAAAI/AAAAAAAAAAA/da12-Bc7DNY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 8, 
+            "publishedAt": "2019-01-25T19:32:08.000Z", 
+            "textDisplay": "My husband would\u2019ve ruined all that in a heartbeat lol", 
+            "textOriginal": "My husband would\u2019ve ruined all that in a heartbeat lol", 
+            "updatedAt": "2019-01-25T19:32:08.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 1, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_zvAA1p4mt1vFlpekqNqXo9JMsQ\"", 
+      "id": "Ugy4o5Su55qp0sLb_4R4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Iw4suXkc5WSKRk2WD7llHcxuifY\"", 
+          "id": "Ugy4o5Su55qp0sLb_4R4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC64AjwKRR0SSmtp6MVG3Org"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC64AjwKRR0SSmtp6MVG3Org", 
+            "authorDisplayName": "Patty Adams", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-JoV8PNPkgXk/AAAAAAAAAAI/AAAAAAAAAAA/O9l5on2qa2k/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T19:29:18.000Z", 
+            "textDisplay": "Love that you are doing the kon Marie method videos !! I\u2019ve been doing that for over a year now in my home and  absolutely love it ! \ud83d\ude09", 
+            "textOriginal": "Love that you are doing the kon Marie method videos !! I\u2019ve been doing that for over a year now in my home and  absolutely love it ! \ud83d\ude09", 
+            "updatedAt": "2019-01-25T19:29:18.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CwnXDWqFgaHz4KR_y9IkKBluWrw\"", 
+      "id": "UgwXLWcgPR6FJKVsHVJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AZ_bbrtz23EgehMV2LZZzHLSkt4\"", 
+          "id": "UgwXLWcgPR6FJKVsHVJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCwbPer54hHBGwSHy7cAgXSA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwbPer54hHBGwSHy7cAgXSA", 
+            "authorDisplayName": "Sanja Duric", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-L4REVFU2edw/AAAAAAAAAAI/AAAAAAAAAAA/9cfRScTpCNg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T19:21:24.000Z", 
+            "textDisplay": "You are awesome! Loved this video!", 
+            "textOriginal": "You are awesome! Loved this video!", 
+            "updatedAt": "2019-01-25T19:21:24.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tpRfqFwBtjZKPutb022r_eUff6I\"", 
+      "id": "UgzUwfhXdIIFkeJeytF4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ncZ0P-sSZM_J00wVR-VMdc69VBk\"", 
+          "id": "UgzUwfhXdIIFkeJeytF4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCm1aR-L3k7d7iYojytA9cFg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCm1aR-L3k7d7iYojytA9cFg", 
+            "authorDisplayName": "TheWriteBeauty", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-1WqCbm9KNcA/AAAAAAAAAAI/AAAAAAAAAAA/9Zs9kEblDn4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T19:18:12.000Z", 
+            "textDisplay": "I&#39;m tackling my drawers today! Good luck to me lol \ud83d\ude02 Love your furniture pieces, so pretty.", 
+            "textOriginal": "I'm tackling my drawers today! Good luck to me lol \ud83d\ude02 Love your furniture pieces, so pretty.", 
+            "updatedAt": "2019-01-25T19:18:12.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7BjfgYVk0ePsuB1kcvVYcfCmb9M\"", 
+      "id": "Ugz7Ph4XqD2f52kMfZh4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/m0YqlF4zjJtWpzBu5dq8LHYoxvs\"", 
+          "id": "Ugz7Ph4XqD2f52kMfZh4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCC9EWFZD5OWJuHD0-RAzI4Q"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCC9EWFZD5OWJuHD0-RAzI4Q", 
+            "authorDisplayName": "Lifeaskaren", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-VKwIOvZH4ng/AAAAAAAAAAI/AAAAAAAAAAA/VuHAui9ZOUg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T19:14:50.000Z", 
+            "textDisplay": "omg love love this video \ud83d\udc95 \ud83d\udc95\ud83d\udc95\ud83d\udc95", 
+            "textOriginal": "omg love love this video \ud83d\udc95 \ud83d\udc95\ud83d\udc95\ud83d\udc95", 
+            "updatedAt": "2019-01-25T19:14:50.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HqynU8ElK-9b8zRcyJ31S6QPQrA\"", 
+      "id": "Ugzt8CgZdt0ohLc4R7x4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gb-aMqkpsPKW-Ld0ZNon-GxS47I\"", 
+          "id": "Ugzt8CgZdt0ohLc4R7x4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UClafTw8BF8aW2DaQxVrmP4A"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UClafTw8BF8aW2DaQxVrmP4A", 
+            "authorDisplayName": "Adriana L", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-I-bDx2h-Apo/AAAAAAAAAAI/AAAAAAAAAAA/rmq-Xv3YpA8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T19:05:17.000Z", 
+            "textDisplay": "i just started watching you videos and i gotta say i literally love them so much !!!!", 
+            "textOriginal": "i just started watching you videos and i gotta say i literally love them so much !!!!", 
+            "updatedAt": "2019-01-25T19:05:17.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/J9ONPYP5QgwNN87Mv63wIv-ZC88\"", 
+      "id": "UgyVPkmUSL50017WbGd4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vEgXdDevwrRt9ag1slcVoBnsRFM\"", 
+          "id": "UgyVPkmUSL50017WbGd4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UClTa6Iu3QpIK8K7QRtuRO5g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UClTa6Iu3QpIK8K7QRtuRO5g", 
+            "authorDisplayName": "Rolly's Homemade Happiness", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-2xWzLL04s8Q/AAAAAAAAAAI/AAAAAAAAAAA/x5JUGtrLC6M/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T18:56:02.000Z", 
+            "textDisplay": "Yayyyyyyy video from my favorite person on YouTube \ud83d\udc9f\ud83d\udc9f", 
+            "textOriginal": "Yayyyyyyy video from my favorite person on YouTube \ud83d\udc9f\ud83d\udc9f", 
+            "updatedAt": "2019-01-25T18:56:02.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gtsXlZNQVHNtj5MJqNvYh3DS7-0\"", 
+      "id": "UgxFffvE2mAg8bG1Y9t4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mgsKz_3ba1oEdyoWPRh7AHmN0fk\"", 
+          "id": "UgxFffvE2mAg8bG1Y9t4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCkRGTDQF6fKAn1z-qn7rhig"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkRGTDQF6fKAn1z-qn7rhig", 
+            "authorDisplayName": "aukluk", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-n66PjpMY4wk/AAAAAAAAAAI/AAAAAAAAAAA/_EN7qQAopuI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 16, 
+            "publishedAt": "2019-01-25T18:35:35.000Z", 
+            "textDisplay": "So did you discard anything? I saw a lot of folding...btw Chad should go through his own stuff so he can discard what doesn&#39;t spark joy for him. Boxes are useful for smaller items like underwear, socks, and bras.", 
+            "textOriginal": "So did you discard anything? I saw a lot of folding...btw Chad should go through his own stuff so he can discard what doesn't spark joy for him. Boxes are useful for smaller items like underwear, socks, and bras.", 
+            "updatedAt": "2019-01-25T18:35:35.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 3, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kMz6Hnl3ATAMNEOIL5waPdpIfjE\"", 
+      "id": "UgxLsM4ViQchoizYsxx4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oa8ILokVLykGekA8PO2UJY5swNk\"", 
+          "id": "UgxLsM4ViQchoizYsxx4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCDf9YQ2CJdJOM20nl49sjsQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDf9YQ2CJdJOM20nl49sjsQ", 
+            "authorDisplayName": "Joanne Prince", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-DSnZyiJkDAI/AAAAAAAAAAI/AAAAAAAAAAA/3Vg6nawGr3w/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T18:16:56.000Z", 
+            "textDisplay": "\ud83d\ude0a\ud83d\udc95\ud83d\udc95\ud83c\udf38", 
+            "textOriginal": "\ud83d\ude0a\ud83d\udc95\ud83d\udc95\ud83c\udf38", 
+            "updatedAt": "2019-01-25T18:16:56.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/B-FVj8FTvPCmpyAo9O04lgYPFOs\"", 
+      "id": "Ugy-mq5FhldeVwb4njx4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Noijdfd6Ygdek86SYctieC4E24E\"", 
+          "id": "Ugy-mq5FhldeVwb4njx4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCEjqZp5QFzEouToR6Q0nEyA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEjqZp5QFzEouToR6Q0nEyA", 
+            "authorDisplayName": "B Dott", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-PkaXrcCXfwQ/AAAAAAAAAAI/AAAAAAAAAAA/UC_xHpJ6DvA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:45:39.000Z", 
+            "textDisplay": "is the music by michelle martinez?", 
+            "textOriginal": "is the music by michelle martinez?", 
+            "updatedAt": "2019-01-25T17:45:39.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KFbmNB_xDAu00_umUH6Pz8fMIqU\"", 
+      "id": "UgzzCAlRVAaMtEa2UFV4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/315l2DIMRqDaDeF19JghhkoMjHI\"", 
+          "id": "UgzzCAlRVAaMtEa2UFV4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCx-rZrCycBusSQAHRj-lHpg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCx-rZrCycBusSQAHRj-lHpg", 
+            "authorDisplayName": "Rosie Figueroa", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-h5-yG6CjbIQ/AAAAAAAAAAI/AAAAAAAAAAA/Dhx0t7RNDgY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:45:17.000Z", 
+            "textDisplay": "This was so relaxing and motivating at the same time! Loved this video. <br />Btw, I LOVE your shirt, nice colors!!! <br />Love you Alexandra! \ud83d\udc96", 
+            "textOriginal": "This was so relaxing and motivating at the same time! Loved this video. \nBtw, I LOVE your shirt, nice colors!!! \nLove you Alexandra! \ud83d\udc96", 
+            "updatedAt": "2019-01-25T17:45:17.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5JveUvnz_NbeE7pESw6a3yz3Rio\"", 
+      "id": "UgycISGtWx42QyH_g8F4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/uH1bokDMZt6vJj9Llm4eHOZhQso\"", 
+          "id": "UgycISGtWx42QyH_g8F4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCoTsylFCTO6E4zpgEaUsVDQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCoTsylFCTO6E4zpgEaUsVDQ", 
+            "authorDisplayName": "Aurelia Minne", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-t4xz7pQ2KEU/AAAAAAAAAAI/AAAAAAAAAAA/pqV6msD_2QE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:40:11.000Z", 
+            "textDisplay": "AGAIN, such an inspiring video girl! So proud of you. You actually make me want to clean up everything, everytime! \ud83c\udf38\ud83d\udc96", 
+            "textOriginal": "AGAIN, such an inspiring video girl! So proud of you. You actually make me want to clean up everything, everytime! \ud83c\udf38\ud83d\udc96", 
+            "updatedAt": "2019-01-25T17:40:11.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PtKaf3cdjNnHmEON0nRKQO63jtU\"", 
+      "id": "Ugxt-vFBOuP4Q4sFHd14AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CxNnxAaD6sZ8yJYnI6dOJRYViJA\"", 
+          "id": "Ugxt-vFBOuP4Q4sFHd14AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCcmyqOFifbqMoTluTP2HfSQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcmyqOFifbqMoTluTP2HfSQ", 
+            "authorDisplayName": "Emonee Sanchez", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-kHFt9E6qC80/AAAAAAAAAAI/AAAAAAAAAAA/OyxvNdQRjQ8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:36:14.000Z", 
+            "textDisplay": "Yes I needed this video !!!!!!", 
+            "textOriginal": "Yes I needed this video !!!!!!", 
+            "updatedAt": "2019-01-25T17:36:14.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/vF-XqQfne4pPBihACMt2S_1-D1E\"", 
+      "id": "UgxR9CYOpEB3jFV-8qN4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LLh1wElzdc7x67jizApV4BBguk4\"", 
+          "id": "UgxR9CYOpEB3jFV-8qN4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCxRfWHo9II3wsQEHilXWwmA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxRfWHo9II3wsQEHilXWwmA", 
+            "authorDisplayName": "Rachel Kelly", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-27Nwx6zypss/AAAAAAAAAAI/AAAAAAAAAAA/p5U7PMEkows/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:29:21.000Z", 
+            "textDisplay": "I\u2019ve read her book and watched some of her other tv appearances on folding awkward things and she definitely says to make it work for your space and area and that little bit of wiggle room made it less stressful for me. Sometimes you gotta get creative", 
+            "textOriginal": "I\u2019ve read her book and watched some of her other tv appearances on folding awkward things and she definitely says to make it work for your space and area and that little bit of wiggle room made it less stressful for me. Sometimes you gotta get creative", 
+            "updatedAt": "2019-01-25T17:29:21.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KbFkVu-sQnyF0uXxabBM62sIMxs\"", 
+      "id": "Ugy9SqE0RplFLDZYeAh4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bFggnXfcKpYghKE8oD7ldS49IxU\"", 
+          "id": "Ugy9SqE0RplFLDZYeAh4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC7AUGcMYt8jeNbXj3hYOl-g"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7AUGcMYt8jeNbXj3hYOl-g", 
+            "authorDisplayName": "Gabby Gonzalez", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-QetDMJaB8gU/AAAAAAAAAAI/AAAAAAAAAAA/aLBXVu_jTOo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 8, 
+            "publishedAt": "2019-01-25T17:28:05.000Z", 
+            "textDisplay": "I wish you had done it with Chad. One of the things she states is to do it with everyone in the house hold so everyone is responsible for folding and knowing how to fold the things. That makes it less stressful on everyone because everyone knows how to do it . I know for us my significant other kept telling me \u201cthe folding isn\u2019t as great as yours tho\u201d, but I kept telling him the more you practice the neater it will get. It\u2019s practice.", 
+            "textOriginal": "I wish you had done it with Chad. One of the things she states is to do it with everyone in the house hold so everyone is responsible for folding and knowing how to fold the things. That makes it less stressful on everyone because everyone knows how to do it . I know for us my significant other kept telling me \u201cthe folding isn\u2019t as great as yours tho\u201d, but I kept telling him the more you practice the neater it will get. It\u2019s practice.", 
+            "updatedAt": "2019-01-25T17:28:05.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 1, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7ZL3qy1HliuO1S3d4_w02k2kvKs\"", 
+      "id": "UgytVnPq5TyHe36sFC14AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zdhRXHCRAQaZKMt4NMpmcGhYNbA\"", 
+          "id": "UgytVnPq5TyHe36sFC14AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCgI7ZlLP8ugll8uE9DVdeSQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgI7ZlLP8ugll8uE9DVdeSQ", 
+            "authorDisplayName": "Olivia Tull", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ktc88W5qppg/AAAAAAAAAAI/AAAAAAAAAAA/mNp2qhocHmI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 1, 
+            "publishedAt": "2019-01-25T17:26:54.000Z", 
+            "textDisplay": "Best tip I have found is to fold your pj bottoms around the folded matching top so the sets are all in bundles together! Makes my pajama drawer so much more organized!", 
+            "textOriginal": "Best tip I have found is to fold your pj bottoms around the folded matching top so the sets are all in bundles together! Makes my pajama drawer so much more organized!", 
+            "updatedAt": "2019-01-25T17:26:54.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/e3_VvagTkVUQfUrh_lrji7_nZ_Y\"", 
+      "id": "UgyFLOz4oPHXjHyudhd4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fVMmhowwnSFIcX7XZU0yYixuLyQ\"", 
+          "id": "UgyFLOz4oPHXjHyudhd4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCq19oq72HFXAdRwu2GjN2nQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCq19oq72HFXAdRwu2GjN2nQ", 
+            "authorDisplayName": "ana raquel", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-7QbHs6XFGKo/AAAAAAAAAAI/AAAAAAAAAAA/hHQV8U0_72c/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:24:01.000Z", 
+            "textDisplay": "Love your videos, your style\ud83d\udc95 &amp;&amp; Your beautiful \ud83d\ude0b", 
+            "textOriginal": "Love your videos, your style\ud83d\udc95 && Your beautiful \ud83d\ude0b", 
+            "updatedAt": "2019-01-25T17:24:01.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SIvzA5tyhkT3PV7dP_hsdT4cSp0\"", 
+      "id": "UgycvwYoIoUKm_y_Ncd4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DRR4_DthIJ5mEgR9hpZMxUk68hY\"", 
+          "id": "UgycvwYoIoUKm_y_Ncd4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC492a5ge7IFM4rVtOkMdk2A"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC492a5ge7IFM4rVtOkMdk2A", 
+            "authorDisplayName": "Erica Haskell", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-BVtRlvMAB1o/AAAAAAAAAAI/AAAAAAAAAAA/ub6B14Ass2k/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:19:56.000Z", 
+            "textDisplay": "Anyone know the song she plays during the montages ?!", 
+            "textOriginal": "Anyone know the song she plays during the montages ?!", 
+            "updatedAt": "2019-01-25T17:19:56.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 1, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dXe4pOmBkAy-FFHQCUVTMh6Ta7U\"", 
+      "id": "UgyWDq484gVSQLgAXUJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bz_Y11T34Qlcu5pPtolqSXkHfbc\"", 
+          "id": "UgyWDq484gVSQLgAXUJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCeMjEUrJdrwk4J9e2uwyHSA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeMjEUrJdrwk4J9e2uwyHSA", 
+            "authorDisplayName": "Erika Poirier", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Fo3KZ0j-K-Q/AAAAAAAAAAI/AAAAAAAAAAA/hnbcvGgkxy8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:13:18.000Z", 
+            "textDisplay": "Hey Alexandra, i love this vid\u00e9o girl and happy Friday beautiful i love you \ud83d\ude18\u2764\ufe0f\ud83d\udc95\ud83c\udf38\ud83c\udf38", 
+            "textOriginal": "Hey Alexandra, i love this vid\u00e9o girl and happy Friday beautiful i love you \ud83d\ude18\u2764\ufe0f\ud83d\udc95\ud83c\udf38\ud83c\udf38", 
+            "updatedAt": "2019-01-25T17:13:18.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ZzLf0GycZlXs2bhZq66SJyxdZ4A\"", 
+      "id": "UgxgEQ13s7XYo6uLUh94AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pnHa0gJ-5MvrjvqMVPSpHvrm1GM\"", 
+          "id": "UgxgEQ13s7XYo6uLUh94AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCshQeG-4TE21A3WMkFRFMvg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCshQeG-4TE21A3WMkFRFMvg", 
+            "authorDisplayName": "Chole'_Love", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-bwb8GmaSxtk/AAAAAAAAAAI/AAAAAAAAAAA/xYVAFhPxvGE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:13:11.000Z", 
+            "textDisplay": "If you have space for a small bin in your closet, tank tops stay put really well in these canvas bins. I use the smallest size. The one i have is white, i think they come in different options. I did notice they changed the shape of the smallest bin, so it&#39;s different than mine. I have had my bin for about 3 years and it&#39;s still going strong. <a href=\"https://www.bedbathandbeyond.com/store/product/canvas-storage-bin-with-chevron-print/3302706?keyword=canvas-bin\">https://www.bedbathandbeyond.com/store/product/canvas-storage-bin-with-chevron-print/3302706?keyword=canvas-bin</a>", 
+            "textOriginal": "If you have space for a small bin in your closet, tank tops stay put really well in these canvas bins. I use the smallest size. The one i have is white, i think they come in different options. I did notice they changed the shape of the smallest bin, so it's different than mine. I have had my bin for about 3 years and it's still going strong. https://www.bedbathandbeyond.com/store/product/canvas-storage-bin-with-chevron-print/3302706?keyword=canvas-bin", 
+            "updatedAt": "2019-01-25T17:13:11.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XlmOH_0Z3TAb75gLX7c7nOlXPg8\"", 
+      "id": "UgxcuNN-PUUd7_gbQEZ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Zep7KCDk0Qirb39TNyhJKyqBbfo\"", 
+          "id": "UgxcuNN-PUUd7_gbQEZ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCtIiK5pa35_wSahoIHAU1LA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtIiK5pa35_wSahoIHAU1LA", 
+            "authorDisplayName": "Maria Lahens", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-RhpT6kwQ-8w/AAAAAAAAAAI/AAAAAAAAAAA/gC5G39xWTLU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:11:27.000Z", 
+            "textDisplay": "I started last week now I&#39;m addicted .", 
+            "textOriginal": "I started last week now I'm addicted .", 
+            "updatedAt": "2019-01-25T17:11:27.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/YnE6ypkNAxiBU0-cxJg1JXWXZ3s\"", 
+      "id": "UgxBK1Z15mT11flQNoF4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/loeEKyowjjyJ_-CZIdt9zkqoasI\"", 
+          "id": "UgxBK1Z15mT11flQNoF4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCtoUOg7Quk8kaW3nQqLeP5A"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtoUOg7Quk8kaW3nQqLeP5A", 
+            "authorDisplayName": "Leionah Ieremia", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Kw0gpg03f0Y/AAAAAAAAAAI/AAAAAAAAAAA/df5kIbNpfTQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 3, 
+            "publishedAt": "2019-01-25T17:01:17.000Z", 
+            "textDisplay": "I absolutely love love the variety of videos on your channel. It\u2019s so helpful inspirational and I absolutely love love your style of clothing and taste in home decor and everything. It\u2019s really really changed my life and freed my mind of clutter free and reorganize my life and my priorities. So thank you thank you so much truly. You\u2019re so beautiful and so motivating and inspiring. You\u2019re a true genuine gem. \ud83e\udd17\ud83d\ude42\ud83d\udc4c\ud83c\udffc\ud83e\udd70\ud83d\ude4f\ud83c\udffc\ud83d\ude09", 
+            "textOriginal": "I absolutely love love the variety of videos on your channel. It\u2019s so helpful inspirational and I absolutely love love your style of clothing and taste in home decor and everything. It\u2019s really really changed my life and freed my mind of clutter free and reorganize my life and my priorities. So thank you thank you so much truly. You\u2019re so beautiful and so motivating and inspiring. You\u2019re a true genuine gem. \ud83e\udd17\ud83d\ude42\ud83d\udc4c\ud83c\udffc\ud83e\udd70\ud83d\ude4f\ud83c\udffc\ud83d\ude09", 
+            "updatedAt": "2019-01-25T17:01:17.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Io_gOEAy0S8UMeVjs76ScQOEtDk\"", 
+      "id": "UgyMCIeUkAHNKOiT15J4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/76fCUeYD2evnNDgr8Y3vPTj8KjI\"", 
+          "id": "UgyMCIeUkAHNKOiT15J4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCAAusQBCvezleSegpoNYbFA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAAusQBCvezleSegpoNYbFA", 
+            "authorDisplayName": "Jaime Baby", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-b2LkXLJgGV0/AAAAAAAAAAI/AAAAAAAAAAA/5DkJV1yEQes/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T17:00:04.000Z", 
+            "textDisplay": "Love this!  definitely feed my love of cleaning! Lol so inspiring !", 
+            "textOriginal": "Love this!  definitely feed my love of cleaning! Lol so inspiring !", 
+            "updatedAt": "2019-01-25T17:00:04.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Bx1kk8lf2Te6r0VEKba_tKvPGdA\"", 
+      "id": "UgwZZvyJEY8GwwTBlsx4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7YoNZAUGVldBsRM12zt_r1-vh0k\"", 
+          "id": "UgwZZvyJEY8GwwTBlsx4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCK1gd0UznXibuozahTqVg3w"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCK1gd0UznXibuozahTqVg3w", 
+            "authorDisplayName": "Maite Iglesias", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-AL4RIXkO4-k/AAAAAAAAAAI/AAAAAAAAAAA/OwJ9A4RRFWo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:59:20.000Z", 
+            "textDisplay": "Loved the vid, as always! I had just majorly decluttered my whole room before the series aired so not much to do lol. After watching this will definitely be giving folding a try. I have my shirts folded like you did with the graphics out, it&#39;s a lot easier to know what you&#39;re getting out. I already have them stacked sideways too instead of on top of each other, but some turned out flimsey and wouldn&#39;t hold, so excited to see if this way it will work.\ud83d\udc97\ud83c\udf3a", 
+            "textOriginal": "Loved the vid, as always! I had just majorly decluttered my whole room before the series aired so not much to do lol. After watching this will definitely be giving folding a try. I have my shirts folded like you did with the graphics out, it's a lot easier to know what you're getting out. I already have them stacked sideways too instead of on top of each other, but some turned out flimsey and wouldn't hold, so excited to see if this way it will work.\ud83d\udc97\ud83c\udf3a", 
+            "updatedAt": "2019-01-25T16:59:20.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1Jx3x3qjWNdMzo-5ZBmxy-MqI1o\"", 
+      "id": "UgzMG81Huhji8LJdJZJ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EVp4vleUxWbPjRVArw8v3bs3C4A\"", 
+          "id": "UgzMG81Huhji8LJdJZJ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCFcsEjPl4u-7Oo99qGUQv5w"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFcsEjPl4u-7Oo99qGUQv5w", 
+            "authorDisplayName": "Mrs. Goslin", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-JZu9z9v4nIE/AAAAAAAAAAI/AAAAAAAAAAA/LihsWBSkjhs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:47:11.000Z", 
+            "textDisplay": "Oh my gosh I am going to be doing my closet soon after this!!!!", 
+            "textOriginal": "Oh my gosh I am going to be doing my closet soon after this!!!!", 
+            "updatedAt": "2019-01-25T16:47:11.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zSySkrAa0hSF0YT8RhY9CePkQyg\"", 
+      "id": "UgxwuEeXKIAhIhWrlQl4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gJAGBgdnzZJRnkgOre4S5VL4o_A\"", 
+          "id": "UgxwuEeXKIAhIhWrlQl4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC50FBi8N09MspApH8ie2p8w"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC50FBi8N09MspApH8ie2p8w", 
+            "authorDisplayName": "Joanna Marticio", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-EOEWRnd8_gI/AAAAAAAAAAI/AAAAAAAAAAA/bI9A_Ui3hO8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:35:36.000Z", 
+            "textDisplay": "I need to do this, Thank you for posting.  \ud83d\udc8b", 
+            "textOriginal": "I need to do this, Thank you for posting.  \ud83d\udc8b", 
+            "updatedAt": "2019-01-25T16:35:36.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mSTKNLrhV1clFQvUyLYln8lKVxw\"", 
+      "id": "UgwZNtR1OMIzrBYc8dh4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/hlczIDEkuDtDtDOoVC5Z2WNby0s\"", 
+          "id": "UgwZNtR1OMIzrBYc8dh4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC2pSs7lRjOSi5L3iJ1pkfTw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2pSs7lRjOSi5L3iJ1pkfTw", 
+            "authorDisplayName": "Trisha Joy", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Iyhc6UaDVWg/AAAAAAAAAAI/AAAAAAAAAAA/VSfRvbyb_gU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 3, 
+            "publishedAt": "2019-01-25T16:33:52.000Z", 
+            "textDisplay": "Your tip about doing the Kon Marie method with another person works the other way, too. I\u2019ve had my mother come and help me declutter and if I want to get rid of something she tries to convince me to KEEP it! Lol. \ud83d\ude02 I\u2019ve been going through my apartment and doing this method the past couple weeks. Going slow, but getting it done. Thanks for sharing this video! It\u2019s very motivating! \ud83d\ude0a", 
+            "textOriginal": "Your tip about doing the Kon Marie method with another person works the other way, too. I\u2019ve had my mother come and help me declutter and if I want to get rid of something she tries to convince me to KEEP it! Lol. \ud83d\ude02 I\u2019ve been going through my apartment and doing this method the past couple weeks. Going slow, but getting it done. Thanks for sharing this video! It\u2019s very motivating! \ud83d\ude0a", 
+            "updatedAt": "2019-01-25T16:35:31.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 2, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qhvlRiK5Dk1UdzHR03HjGr34Xu8\"", 
+      "id": "UgwgvDqpxW5apyln9O14AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/krtW__r8BGwwZRc9MpNXwJE1Aes\"", 
+          "id": "UgwgvDqpxW5apyln9O14AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC-fMMUG6VUpTmVyZWBxi44Q"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-fMMUG6VUpTmVyZWBxi44Q", 
+            "authorDisplayName": "Vanessa Hernandez", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-3ZFbMhKUXmU/AAAAAAAAAAI/AAAAAAAAAAA/fHzuQSRtQGw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:32:56.000Z", 
+            "textDisplay": "Hi Alexandra!!! I liked before watching because I know I am going to like the video. \ud83d\ude1a I like watching your videos because you are so full of positive vibes! \ud83d\ude18", 
+            "textOriginal": "Hi Alexandra!!! I liked before watching because I know I am going to like the video. \ud83d\ude1a I like watching your videos because you are so full of positive vibes! \ud83d\ude18", 
+            "updatedAt": "2019-01-25T16:32:56.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/P_vWUSOUWiWVhU15vvPQ0La5Aq8\"", 
+      "id": "Ugy5tAa5AexuOAZ6NoN4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/yYWXhJWoS8XXEYp7gbEdsQZ1Ef4\"", 
+          "id": "Ugy5tAa5AexuOAZ6NoN4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC558TqE2mFD-8iCScKcX-Cg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC558TqE2mFD-8iCScKcX-Cg", 
+            "authorDisplayName": "Samantha Hendrikson", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-LbBpAFfqxaI/AAAAAAAAAAI/AAAAAAAAAAA/xhKS-6-ohiY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 1, 
+            "publishedAt": "2019-01-25T16:31:17.000Z", 
+            "textDisplay": "You have to read the book that goes with this the act of tidying up!!", 
+            "textOriginal": "You have to read the book that goes with this the act of tidying up!!", 
+            "updatedAt": "2019-01-25T16:31:17.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Ou83xeB0FHgaERwU-QTWyigBcuQ\"", 
+      "id": "Ugxj1N2tp6Gi4zPSNUl4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GDohwV28c1lC1X9gbtX4ef1pF9A\"", 
+          "id": "Ugxj1N2tp6Gi4zPSNUl4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC0jELtaCkT1j6p3mfsQWAiw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0jELtaCkT1j6p3mfsQWAiw", 
+            "authorDisplayName": "Bekah Harris", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-dK0M1WPtM-s/AAAAAAAAAAI/AAAAAAAAAAA/jTOTxq1L0n0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:30:56.000Z", 
+            "textDisplay": "Can I get your opinion on the quality of the Wayfair dressers?  I&#39;ve been looking at the West Elm version, but balk at the price...", 
+            "textOriginal": "Can I get your opinion on the quality of the Wayfair dressers?  I've been looking at the West Elm version, but balk at the price...", 
+            "updatedAt": "2019-01-25T16:30:56.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/T5PRBPBf3b0MCYqgkqv6H8R4q2c\"", 
+      "id": "UgwzIbgS53wd9P2qEb94AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GMHTz7pMulxp7dM7R6zalFvg8AY\"", 
+          "id": "UgwzIbgS53wd9P2qEb94AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCXBn4plJg14B5Dlo7OA0MDw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXBn4plJg14B5Dlo7OA0MDw", 
+            "authorDisplayName": "Karin D.", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-3dA20n-HA4c/AAAAAAAAAAI/AAAAAAAAAAA/Swe-0GgTpjA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:28:09.000Z", 
+            "textDisplay": "You just save my life thank, I just got married and organizing is a little bit complicated!!!", 
+            "textOriginal": "You just save my life thank, I just got married and organizing is a little bit complicated!!!", 
+            "updatedAt": "2019-01-25T16:28:09.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PnLx-dIPbDdvz4EoOGXGeIhPV_o\"", 
+      "id": "UgxcgaJ3nW9m-yZ2q914AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AEPaqAmEaY_ROXx4jzZbWt9C1Kw\"", 
+          "id": "UgxcgaJ3nW9m-yZ2q914AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCJQ27mkChUog-iVoW5E442A"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJQ27mkChUog-iVoW5E442A", 
+            "authorDisplayName": "KyleeInspired", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-OHYnOsa8u8s/AAAAAAAAAAI/AAAAAAAAAAA/-YtdKTZkb_w/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:26:41.000Z", 
+            "textDisplay": "Just did this folding method the other day! I also LOVED the process it was so calming in a way lol. Wonderful job! \u2665\ufe0f\u203c\ufe0f", 
+            "textOriginal": "Just did this folding method the other day! I also LOVED the process it was so calming in a way lol. Wonderful job! \u2665\ufe0f\u203c\ufe0f", 
+            "updatedAt": "2019-01-25T16:26:41.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MFMEwFCRDkOaf4DUl0yL4Z7gzNA\"", 
+      "id": "UgyUm_KkBijgkbZXg8V4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lK38aRm1euLGLdud5PBq4vEQMCo\"", 
+          "id": "UgyUm_KkBijgkbZXg8V4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCAhZ1xkkmG_JW72Od2CIUzw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAhZ1xkkmG_JW72Od2CIUzw", 
+            "authorDisplayName": "Sincerely, Desiree", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-K59SKox8tmA/AAAAAAAAAAI/AAAAAAAAAAA/kkB8rzYXz-g/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:26:12.000Z", 
+            "textDisplay": "Omg you did such a great job! I\u2019m going to try her method for my channel as well! So excited! Thanks for the motivation!! \ud83d\ude04", 
+            "textOriginal": "Omg you did such a great job! I\u2019m going to try her method for my channel as well! So excited! Thanks for the motivation!! \ud83d\ude04", 
+            "updatedAt": "2019-01-25T16:26:12.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oFRlxsdPhpUWDvNI3sziW-TXsJU\"", 
+      "id": "UgxOVwm68cauB4fzhnN4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/s9tueay9KGld6Ol0o8EKCn72Bwg\"", 
+          "id": "UgxOVwm68cauB4fzhnN4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCTWF2Ci912bqlYOJHFqffUw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTWF2Ci912bqlYOJHFqffUw", 
+            "authorDisplayName": "Christina Marie", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-AcGy-9-wdvU/AAAAAAAAAAI/AAAAAAAAAAA/PrLdkbciYuA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 55, 
+            "publishedAt": "2019-01-25T16:25:36.000Z", 
+            "textDisplay": "Can we just take a moment to appreciate how beautiful Alexandra is?! So stunning \ud83d\ude0d", 
+            "textOriginal": "Can we just take a moment to appreciate how beautiful Alexandra is?! So stunning \ud83d\ude0d", 
+            "updatedAt": "2019-01-25T16:25:36.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 2, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/VFDL14woAkZrEMcQFOK4-uEytXQ\"", 
+      "id": "UgzHjnmFLuuw8xEoHpZ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/l4eFoLXcqVe4gWA9VVnFZnuxegM\"", 
+          "id": "UgzHjnmFLuuw8xEoHpZ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCbFYZs-ktitxiYUaDhqRr8A"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbFYZs-ktitxiYUaDhqRr8A", 
+            "authorDisplayName": "Martha Crisantos", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-F2pASO1RGYQ/AAAAAAAAAAI/AAAAAAAAAAA/yHa-Uo3FW04/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:24:50.000Z", 
+            "textDisplay": "Great video!!! By watching your video, I realized I have been doing it wrong!", 
+            "textOriginal": "Great video!!! By watching your video, I realized I have been doing it wrong!", 
+            "updatedAt": "2019-01-25T16:24:50.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Zgjo4pmzY-lerlyao5NskaiAHUE\"", 
+      "id": "UgxUkqF2l2mFxgxz2Tx4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FS9C_xL77CD7HLfblHHBuIplTG8\"", 
+          "id": "UgxUkqF2l2mFxgxz2Tx4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC_Oeju2Liw7aU1ofQwHaW-Q"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_Oeju2Liw7aU1ofQwHaW-Q", 
+            "authorDisplayName": "Spider-man", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-PMCtx7LFErU/AAAAAAAAAAI/AAAAAAAAAAA/gUs3BlEoJlc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:23:57.000Z", 
+            "textDisplay": "Hi beauty doll\ud83d\udc9e\ud83d\ude18", 
+            "textOriginal": "Hi beauty doll\ud83d\udc9e\ud83d\ude18", 
+            "updatedAt": "2019-01-25T16:23:57.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8btWmoC_wSJSlteqSVkVx6pdRBE\"", 
+      "id": "UgyFKe7Z8Vgwg4kPzYp4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SHrzd4MNI90vBPN_txyYriIbius\"", 
+          "id": "UgyFKe7Z8Vgwg4kPzYp4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCdWrzeJ-uxQ4Vr4VXQ96Ybg"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdWrzeJ-uxQ4Vr4VXQ96Ybg", 
+            "authorDisplayName": "B.D R.2015 B.A.D", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-x5dT7Vzkthw/AAAAAAAAAAI/AAAAAAAAAAA/NVvj9--2QoQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:20:27.000Z", 
+            "textDisplay": "Good morning \ud83c\udf1e \u2764\ufe0f", 
+            "textOriginal": "Good morning \ud83c\udf1e \u2764\ufe0f", 
+            "updatedAt": "2019-01-25T16:20:27.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/0TUnA6mJ-cLQPAhSQLs_pB46n5Y\"", 
+      "id": "Ugw2dPg8KPz_NQriazh4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FJzKgtcjZe6ci6OxZ0XdcsoaCTw\"", 
+          "id": "Ugw2dPg8KPz_NQriazh4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCnTILZgDyFRatoOPYOo9yfw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnTILZgDyFRatoOPYOo9yfw", 
+            "authorDisplayName": "Karen Graham", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-FiaWkWlzKWs/AAAAAAAAAAI/AAAAAAAAAAA/jt42sWoqUBs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 10, 
+            "publishedAt": "2019-01-25T16:18:25.000Z", 
+            "textDisplay": "Enjoyed! Keep the Kon Mari Method videos coming. Great motivation!", 
+            "textOriginal": "Enjoyed! Keep the Kon Mari Method videos coming. Great motivation!", 
+            "updatedAt": "2019-01-25T16:18:25.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dDlRkYJbeef0EI27duRlWvnDWDA\"", 
+      "id": "UgwMYkIdhblDiJyGaGd4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9JPx2VqoJES3UlWzpgiNbBSqTnE\"", 
+          "id": "UgwMYkIdhblDiJyGaGd4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCdhRARHlyytz4At8SfAyMCQ"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdhRARHlyytz4At8SfAyMCQ", 
+            "authorDisplayName": "Veronica N. Brooks", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-OyvjB0ZHoKE/AAAAAAAAAAI/AAAAAAAAAAA/uLa-b2mEsnI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:18:23.000Z", 
+            "textDisplay": "LOVE this!! I have been watching the Netflix show too, and after watching this video too I am super motivated! Can&#39;t wait to Konmari Method my house! LOL! Love your videos! Can&#39;t wait for more!", 
+            "textOriginal": "LOVE this!! I have been watching the Netflix show too, and after watching this video too I am super motivated! Can't wait to Konmari Method my house! LOL! Love your videos! Can't wait for more!", 
+            "updatedAt": "2019-01-25T16:18:23.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EXjs9h9Jgxj_eiNdqqSrgx0kgD0\"", 
+      "id": "UgyHbB4tYChKUeLXbW14AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/g6D3Xh1BaZAiuM3xFY6rPUd5AIM\"", 
+          "id": "UgyHbB4tYChKUeLXbW14AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UCq9y_Ta9vWFGWf8GjVv0tmw"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UCq9y_Ta9vWFGWf8GjVv0tmw", 
+            "authorDisplayName": "BRE B", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-3Sh_t7-qqmc/AAAAAAAAAAI/AAAAAAAAAAA/4le7MNKU1-A/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:18:12.000Z", 
+            "textDisplay": "I watched this series. It&#39;s so awesome to see someone else trying to put the method to use like me. lol. Thanks Girl!", 
+            "textOriginal": "I watched this series. It's so awesome to see someone else trying to put the method to use like me. lol. Thanks Girl!", 
+            "updatedAt": "2019-01-25T16:18:12.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }, 
+    {
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HVsqbX1r08q-RU-Hh4jdJAQJTGQ\"", 
+      "id": "UgwYS-t2Ryh-GNpGeXZ4AaABAg", 
+      "kind": "youtube#commentThread", 
+      "snippet": {
+        "canReply": true, 
+        "isPublic": true, 
+        "topLevelComment": {
+          "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cqLG6eyyC8U9ykjcPqjI4lEB8dg\"", 
+          "id": "UgwYS-t2Ryh-GNpGeXZ4AaABAg", 
+          "kind": "youtube#comment", 
+          "snippet": {
+            "authorChannelId": {
+              "value": "UC2x-T31noCtWzdKsN38ZuzA"
+            }, 
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2x-T31noCtWzdKsN38ZuzA", 
+            "authorDisplayName": "Vilma Carmona", 
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-x-urrReN8mU/AAAAAAAAAAI/AAAAAAAAAAA/BahG2ugusio/s28-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "canRate": true, 
+            "likeCount": 0, 
+            "publishedAt": "2019-01-25T16:15:41.000Z", 
+            "textDisplay": "Your husband is so cute! &quot;I don&#39;t know how to fold like that &quot;", 
+            "textOriginal": "Your husband is so cute! \"I don't know how to fold like that \"", 
+            "updatedAt": "2019-01-25T16:15:41.000Z", 
+            "videoId": "O6EruBH1v7M", 
+            "viewerRating": "none"
+          }
+        }, 
+        "totalReplyCount": 0, 
+        "videoId": "O6EruBH1v7M"
+      }
+    }
+  ], 
+  "kind": "youtube#commentThreadListResponse", 
+  "nextPageToken": "QURTSl9pMzVqSkp3VWRDOWJiRG5jWjdVR0p5TFNnRlJ2MlZiVm5NWkhPMWY0UWowN1lDVWpablBUZV9kSkxpdDNHWlJOWkx3UjI1X3dDYTJual9qa2J5RklBaU1xS0tpd2d2d1ZfSXZmMlRtT3ZoeDJkenZHb3NuOHFtZENfSUtoTHM=", 
+  "pageInfo": {
+    "resultsPerPage": 100, 
+    "totalResults": 100
+  }
+}
