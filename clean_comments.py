@@ -46,5 +46,6 @@ emoji_df = emoji_df.sort_values(by=['count'], ascending = False)
 
 
 emoji_df['pct'] = round((emoji_df['count']/emoji_df['count'].sum()) * 100, 2)
-print(emoji_df.head())
+
+return emoji_df
 
