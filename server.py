@@ -43,7 +43,9 @@ def index():
     videoId='O6EruBH1v7M',
     maxResults = 100)
   
-  return data
+  # return data
+  return flask.render_template('homepage.html')
+
 
 
 @app.route('/authorize')
